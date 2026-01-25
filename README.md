@@ -1,7 +1,7 @@
 # 💫 About Me:
 I’m Fayas, a Computer Science Engineering student at Lovely Professional University, specializing in Artificial Intelligence, Machine Learning, and Full-Stack Development. I focus on building scalable, production-ready solutions that solve real-world problems and deliver meaningful impact.
 
-I believe great technology goes beyond working code — it should be efficient, usable, and designed to scale. Whether working on intelligent systems, automation, or web applications, I aim to transform complex challenges into elegant, practical solutions with strong engineering fundamentals.
+I believe great technology goes beyond working code it should be efficient, usable, and designed to scale. Whether working on intelligent systems, automation, or web applications, I aim to transform complex challenges into elegant, practical solutions with strong engineering fundamentals.
 
 
 ## 🌐 Socials:
