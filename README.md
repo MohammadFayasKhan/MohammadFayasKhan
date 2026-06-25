@@ -146,6 +146,8 @@ I solve DSA problems in **C++** (Striver A2Z roadmap), build AI/ML systems in **
 | **Stack** | Python, FastAPI, Docker, Hugging Face Spaces, Chart.js |
 | **Endpoints** | `/predict` (dashboard), `/predict/compact` (memory-optimized for MCU) |
 | **Course** | CSE274 Applied Machine Learning at LPU |
+| **Repository** | [smart-crop-intelligence-system](https://github.com/MohammadFayasKhan/smart-crop-intelligene-system) |
+| **Live Demo** | [Hugging Face Spaces](https://huggingface.co/spaces/fayaskhan/smart-crop-intelligence) |
 
 **Engineering highlight:** The model is trained exclusively on sensor-measurable variables (no NPK or pH inputs that the hardware cannot read), ensuring zero train-deploy feature mismatch. Rolling telemetry is visualized live in the web dashboard.
 
@@ -165,6 +167,7 @@ I solve DSA problems in **C++** (Striver A2Z roadmap), build AI/ML systems in **
 | **Features** | Animated Gantt charts, Compare All mode, Queue Monitor, State Transition Diagram |
 | **Metrics** | Auto-computed Waiting Time, Turnaround Time, Response Time, CPU Utilization |
 | **Architecture** | Unidirectional data flow with pure scheduling functions decoupled from UI, Zustand as single source of truth |
+| **Repository** | [cpuSched](https://github.com/MohammadFayasKhan/cpuSched) |
 | **Live URL** | [cpu-sched.vercel.app](https://cpu-sched.vercel.app) |
 | **License** | MIT Open Source |
 | **Team** | Fayas Khan, Aditya Rana, Adithyan P (Mentor: Rizwan Sir) |
@@ -174,7 +177,7 @@ I solve DSA problems in **C++** (Striver A2Z roadmap), build AI/ML systems in **
 </details>
 
 <details>
-<summary><b>🏠 Smart Home Automation: ESP8266 + Apple HomeKit Integration</b></summary>
+<summary><b>🏠 SmartHomeAutomationSocket: ESP8266 + Apple HomeKit Integration</b></summary>
 
 <br/>
 
@@ -193,23 +196,6 @@ I solve DSA problems in **C++** (Striver A2Z roadmap), build AI/ML systems in **
 
 </details>
 
-<details>
-<summary><b>🎓 LPU CGPA Calculator: Student-Grade Academic Tool</b></summary>
-
-<br/>
-
-> Browser-based CGPA and TGPA calculator used by LPU students, with complete client-side privacy.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | Vanilla JavaScript, HTML, CSS, localStorage |
-| **Privacy** | 100% client-side computation, no database, data never leaves the browser |
-| **Features** | Add/edit/delete semesters, real-time TGPA + CGPA recalculation, mobile responsive |
-| **Impact** | 177+ reactions, 9,200+ LinkedIn impressions, active user base at LPU |
-
-**Engineering highlight:** Built for a real problem faced by every LPU student. Clean, dependency-free, and fully understandable. Demonstrates genuine independent engineering and practical problem-solving.
-
-</details>
 
 <details>
 <summary><b>🤖 Face Attendance System: AI-Powered Recognition + Geotagging</b></summary>
@@ -225,6 +211,7 @@ I solve DSA problems in **C++** (Striver A2Z roadmap), build AI/ML systems in **
 | **Features** | Geotagging, automated tracking, real-time detection dashboard |
 | **Architecture** | FastAPI backend with React frontend, computer vision inference pipeline |
 | **Repository** | [Face-Attendance-System](https://github.com/MohammadFayasKhan/Face-Attendance-System) |
+| **Live Demo** | [studentsfaceattendancesystem.vercel.app](https://studentsfaceattendancesystem.vercel.app/) |
 
 **Engineering highlight:** Combines computer vision (dlib face recognition), geolocation services, and a full-stack web application into a cohesive attendance management system. Demonstrates integration of AI inference with production web architecture.
 
@@ -315,13 +302,9 @@ I solve DSA problems in **C++** (Striver A2Z roadmap), build AI/ML systems in **
 
 ---
 
-## GitHub Trophies & Achievements
+## GitHub Achievements
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MohammadFayasKhan&theme=tokyonight&no-frame=true&margin-w=12&row=1&column=7"/>
-
-<br/><br/>
 
 <a href="https://github.com/users/MohammadFayasKhan/achievements/quickdraw">
   <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="80" alt="Quickdraw"/>
