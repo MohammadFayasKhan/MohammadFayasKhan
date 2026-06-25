@@ -147,7 +147,7 @@ I solve DSA problems in **C++** (Striver A2Z roadmap), build AI/ML systems in **
 | **Endpoints** | `/predict` (dashboard), `/predict/compact` (memory-optimized for MCU) |
 | **Course** | CSE274 Applied Machine Learning at LPU |
 | **Repository** | [smart-crop-intelligence-system](https://github.com/MohammadFayasKhan/smart-crop-intelligene-system) |
-| **Live Demo** | [Hugging Face Spaces](https://huggingface.co/spaces/fayaskhan/smart-crop-intelligence) |
+| **Live Demo** | [Smart Plant](https://fayasx-smart-plant.hf.space) |
 
 **Engineering highlight:** The model is trained exclusively on sensor-measurable variables (no NPK or pH inputs that the hardware cannot read), ensuring zero train-deploy feature mismatch. Rolling telemetry is visualized live in the web dashboard.
 
