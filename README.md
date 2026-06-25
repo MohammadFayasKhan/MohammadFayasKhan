@@ -147,7 +147,7 @@ I solve DSA problems in **C++** (Striver A2Z roadmap), build AI/ML systems in **
 | **Endpoints** | `/predict` (dashboard), `/predict/compact` (memory-optimized for MCU) |
 | **Course** | CSE274 Applied Machine Learning at LPU |
 | **Repository** | [smart-crop-intelligence-system](https://github.com/MohammadFayasKhan/smart-crop-intelligene-system) |
-| **Live Demo** | [Smart Plant](https://fayasx-smart-plant.hf.space) |
+| **Live Demo** | [Hugging Face Spaces](https://huggingface.co/spaces/fayaskhan/smart-crop-intelligence) |
 
 **Engineering highlight:** The model is trained exclusively on sensor-measurable variables (no NPK or pH inputs that the hardware cannot read), ensuring zero train-deploy feature mismatch. Rolling telemetry is visualized live in the web dashboard.
 
@@ -306,17 +306,24 @@ I solve DSA problems in **C++** (Striver A2Z roadmap), build AI/ML systems in **
 
 <div align="center">
 
-<a href="https://github.com/users/MohammadFayasKhan/achievements/quickdraw">
-  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="80" alt="Quickdraw"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/users/MohammadFayasKhan/achievements/yolo">
-  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="80" alt="YOLO"/>
-</a>
-
-<br/>
-
-`Quickdraw` &nbsp; `YOLO`
+<table>
+  <tr>
+    <td align="center" style="border: none;">
+      <a href="https://github.com/users/MohammadFayasKhan/achievements/quickdraw">
+        <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="80" alt="Quickdraw"/>
+      </a>
+      <br/>
+      <code>Quickdraw</code>
+    </td>
+    <td align="center" style="border: none;">
+      <a href="https://github.com/users/MohammadFayasKhan/achievements/yolo">
+        <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="80" alt="YOLO"/>
+      </a>
+      <br/>
+      <code>YOLO</code>
+    </td>
+  </tr>
+</table>
 
 </div>
 
