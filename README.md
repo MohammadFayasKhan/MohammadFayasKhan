@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Mohammad+Fayas+Khan;CSE+%40+LPU+%7C+CGPA+9.64+%7C+Honor+Roll;AI+%2F+ML+Engineer+in+the+Making;Full-Stack+%26+IoT+Builder;GSSoC+'26+Open+Source+Contributor;JPMorgan+Chase+Code+For+Good+Qualifier" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Mohammad+Fayas+Khan;AI+%2F+ML+Engineer+in+the+Making;Software+Engineer+%7C+C%2B%2B+%7C+Full+Stack;CSE+%40+LPU+%7C+CGPA+9.64+%7C+Honor+Roll;GSSoC+'26+Open+Source+Contributor" alt="Typing SVG" />
 
 <br/>
 
@@ -11,7 +11,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/CGPA-9.64_/_10-10B981?style=flat-square"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/AI%2FML-Minor-6366F1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI%2FML-Minor_Specialization-6366F1?style=flat-square"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Andhra_Pradesh,_India-A78BFA?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
@@ -48,11 +48,11 @@
 
 ## About
 
-I am a **Computer Science Engineering** student at **Lovely Professional University**, maintaining a **CGPA of 9.64** and recognized on the **University Honor Roll**. I pursue an AI/ML minor alongside my core CSE program, and I build things that run in the real world — from deployed ML models with 93%+ accuracy to production-grade React simulators used by other students.
+I am a **Computer Science Engineering** student at **Lovely Professional University** with a **9.64 CGPA** and recognition on the **University Honor Roll**. I pursue an **AI/ML Minor** alongside core CSE coursework, and I build software that runs in the real world: deployed ML models with 93%+ accuracy, production React applications used by students, hardware-software systems with native Apple HomeKit integration, and AI-powered full-stack applications with facial recognition.
 
-My engineering spans hardware-to-cloud: ESP8266 sensors streaming live data into FastAPI backends, ML pipelines deployed on Hugging Face, automation scripts securing macOS credentials, and interactive web apps shipped on Vercel. I cleared the **JPMorgan Chase Code For Good HackerRank Round** and am contributing to open source as part of **GSSoC '26**.
+My engineering work spans the full stack, from ESP8266 sensors streaming live data into FastAPI backends, to ML pipelines deployed on Hugging Face, to interactive web apps shipped on Vercel. I cleared the **JPMorgan Chase Code For Good** HackerRank round and contribute to open source through **GSSoC '26**.
 
-Currently in a focused sprint — building depth in **Java + DSA** (Striver A2Z) in parallel with **AI/ML** (Apna College Prime) — with a target of landing a strong SWE or AI/ML placement from LPU.
+I solve DSA problems in **C++** (Striver A2Z roadmap), build AI/ML systems in **Python**, and develop web applications with **React, FastAPI, and Node.js**. My goal is to combine strong computer science fundamentals with practical AI/ML capabilities to build intelligent, production-quality software.
 
 **Open to:** SWE Internships · AI/ML Roles · Open Source Collaborations
 
@@ -63,7 +63,19 @@ Currently in a focused sprint — building depth in **Java + DSA** (Striver A2Z)
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,c,javascript&theme=dark"/>
+</p>
+
+### AI / ML & Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv,anaconda&theme=dark"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
 </p>
 
 ### Frontend
@@ -75,23 +87,17 @@ Currently in a focused sprint — building depth in **Java + DSA** (Striver A2Z)
 ### Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mysql,firebase&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mysql,firebase,supabase&theme=dark"/>
 </p>
 
-### AI / ML & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv,anaconda&theme=dark"/>
-</p>
-
-### Hardware & IoT
+### Embedded Systems & IoT
 
 <p>
   <img src="https://skillicons.dev/icons?i=arduino&theme=dark"/>
   &nbsp;
   <img src="https://img.shields.io/badge/ESP8266-NodeMCU-00979D?style=flat-square&logo=espressif&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/ESP32-CAM-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32--CAM-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/DHT11-Sensor-0F9D58?style=flat-square"/>
 </p>
@@ -99,7 +105,7 @@ Currently in a focused sprint — building depth in **Java + DSA** (Striver A2Z)
 ### DevOps & Tooling
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,selenium&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,selenium&theme=dark"/>
 </p>
 
 ---
@@ -108,20 +114,20 @@ Currently in a focused sprint — building depth in **Java + DSA** (Striver A2Z)
 
 | Domain | Details |
 |---|---|
-| **Machine Learning** | RandomForest, GridSearchCV, cross-validation, OOB scoring, feature importance |
-| **Applied ML & IoT** | Sensor-to-model pipelines, real-time inference (27ms avg), zero train-deploy feature mismatch |
-| **Deep Learning** | CNNs, MobileNetV2 (applied), PyTorch fundamentals, LPU AI/ML minor coursework |
-| **NLP & GenAI** | Transformers, BERT, GPT concepts, OCI AI services, in-context learning, RAG foundations |
-| **Data Science** | Pandas, NumPy, Matplotlib, EDA, hypothesis testing, probability & statistics |
+| **Machine Learning** | RandomForest, GridSearchCV, cross-validation, OOB scoring, feature importance analysis |
+| **Applied ML + IoT** | Sensor-to-model pipelines, real-time inference (27ms avg latency), zero train-deploy feature mismatch |
+| **Deep Learning** | CNNs, MobileNetV2 (applied), PyTorch fundamentals, AI/ML Minor coursework at LPU |
+| **Computer Vision** | OpenCV, dlib face recognition, TCS3200 color sensing, ESP32-CAM integration |
+| **NLP & Generative AI** | Transformers, BERT, GPT concepts, OCI AI services, in-context learning, RAG foundations |
+| **Data Science** | Pandas, NumPy, Matplotlib, EDA, hypothesis testing, probability and statistics |
 | **Cloud AI** | Oracle Cloud Infrastructure AI Foundations (Certified), Hugging Face Spaces deployment |
-| **Computer Vision** | OpenCV, TCS3200 color sensing, ESP32-CAM integration |
 
 ---
 
 ## Featured Projects
 
 <details>
-<summary><b>🌾 Smart Crop Intelligence System — IoT + ML Precision Agriculture Platform</b></summary>
+<summary><b>🌾 Smart Crop Intelligence System: IoT + ML Precision Agriculture Platform</b></summary>
 
 <br/>
 
@@ -129,24 +135,24 @@ Currently in a focused sprint — building depth in **Java + DSA** (Striver A2Z)
 
 | Attribute | Detail |
 |---|---|
-| **ML Model** | RandomForestClassifier · 300 estimators · GridSearchCV tuned |
-| **Accuracy** | 93.18% test accuracy · 93.10% macro F1 score |
-| **Validation** | 5-fold CV mean 91.19% · OOB score 91.82% |
-| **Dataset** | 2,200 balanced samples · 22 crop classes |
-| **Feature Importance** | Rainfall 0.38 · Humidity 0.38 · Temperature 0.24 |
+| **ML Model** | RandomForestClassifier, 300 estimators, GridSearchCV tuned |
+| **Accuracy** | 93.18% test accuracy, 93.10% macro F1 score |
+| **Validation** | 5-fold CV mean 91.19%, OOB score 91.82% |
+| **Dataset** | 2,200 balanced samples across 22 crop classes |
+| **Feature Importance** | Rainfall 0.38, Humidity 0.38, Temperature 0.24 |
 | **Inference Speed** | 27.61ms average end-to-end latency |
-| **IoT Hardware** | ESP8266 NodeMCU · DHT11 · YL-83 rain sensor · Soil moisture probe |
-| **Disease Engine** | Rule-based · 11 environmental conditions · 4 severity levels (CRITICAL → WATCH) |
-| **Stack** | Python · FastAPI · Docker · Hugging Face Spaces · Chart.js |
-| **Endpoints** | `/predict` (dashboard) · `/predict/compact` (memory-optimized for MCU) |
-| **Course** | CSE274 Applied Machine Learning · LPU |
+| **IoT Hardware** | ESP8266 NodeMCU, DHT11, YL-83 rain sensor, soil moisture probe |
+| **Disease Engine** | Rule-based evaluation of 11 environmental conditions across 4 severity levels |
+| **Stack** | Python, FastAPI, Docker, Hugging Face Spaces, Chart.js |
+| **Endpoints** | `/predict` (dashboard), `/predict/compact` (memory-optimized for MCU) |
+| **Course** | CSE274 Applied Machine Learning at LPU |
 
-**What makes it different:** The model is trained exclusively on sensor-measurable variables — no NPK or pH inputs that the hardware cannot read. Zero train-deploy feature mismatch. Rolling telemetry visualized live in the web dashboard.
+**Engineering highlight:** The model is trained exclusively on sensor-measurable variables (no NPK or pH inputs that the hardware cannot read), ensuring zero train-deploy feature mismatch. Rolling telemetry is visualized live in the web dashboard.
 
 </details>
 
 <details>
-<summary><b>⚙️ CPUSCHED — Interactive CPU Scheduling Simulator</b></summary>
+<summary><b>⚙️ CPUSCHED: Interactive CPU Scheduling Simulator</b></summary>
 
 <br/>
 
@@ -154,88 +160,73 @@ Currently in a focused sprint — building depth in **Java + DSA** (Striver A2Z)
 
 | Attribute | Detail |
 |---|---|
-| **Stack** | React 18 · Vite · Tailwind CSS · Zustand · Lucide React |
-| **Algorithms** | FCFS · SJF · SRTF · Round Robin · Priority Scheduling |
-| **Features** | Animated Gantt charts · Compare All mode · Queue Monitor · State Transition Diagram |
-| **Metrics** | Auto-computed Waiting Time · Turnaround Time · Response Time · CPU Utilization |
-| **Architecture** | Unidirectional data flow · Pure scheduling functions decoupled from UI · Zustand as single source of truth |
+| **Stack** | React 18, Vite, Tailwind CSS, Zustand, Lucide React |
+| **Algorithms** | FCFS, SJF, SRTF, Round Robin, Priority Scheduling |
+| **Features** | Animated Gantt charts, Compare All mode, Queue Monitor, State Transition Diagram |
+| **Metrics** | Auto-computed Waiting Time, Turnaround Time, Response Time, CPU Utilization |
+| **Architecture** | Unidirectional data flow with pure scheduling functions decoupled from UI, Zustand as single source of truth |
 | **Live URL** | [cpu-sched.vercel.app](https://cpu-sched.vercel.app) |
 | **License** | MIT Open Source |
-| **Team** | Fayas Khan · Aditya Rana · Adithyan P · Mentor: Rizwan Sir |
+| **Team** | Fayas Khan, Aditya Rana, Adithyan P (Mentor: Rizwan Sir) |
 
-**What it does:** Lets students configure arbitrary process workloads and watch all five major scheduling algorithms execute in real time — with play/pause/step controls, timestamped logs, built-in educational scenarios (Convoy Effect, Starvation, Priority Inversion), and contextual algorithm explainers.
-
-</details>
-
-<details>
-<summary><b>🖥️ LPU CGPA Calculator — Student-Grade Academic Tool</b></summary>
-
-<br/>
-
-> Browser-based CGPA and TGPA calculator used by LPU students — no login, no cloud, complete privacy.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | Vanilla JavaScript · HTML · CSS · localStorage |
-| **Privacy** | 100% client-side · no database · data never leaves the browser |
-| **Features** | Add/edit/delete semesters · Real-time TGPA + CGPA recalculation · Mobile responsive |
-| **Impact** | 177+ reactions · 9,200+ LinkedIn impressions · Active user base at LPU |
-
-**Why it matters:** Built for a real problem faced by every LPU student. Clean, dependency-free, and fully understandable — the kind of project that demonstrates genuine independent engineering.
+**Engineering highlight:** Students can configure arbitrary process workloads and watch all five major scheduling algorithms execute in real time with play/pause/step controls, timestamped logs, built-in educational scenarios (Convoy Effect, Starvation, Priority Inversion), and contextual algorithm explainers.
 
 </details>
 
 <details>
-<summary><b>🔐 Smart Auto Login Tool — Python + Selenium Security Automation</b></summary>
+<summary><b>🏠 Smart Home Automation: ESP8266 + Apple HomeKit Integration</b></summary>
 
 <br/>
 
-> macOS automation tool that handles LPU UMS portal authentication using system-level secure credential storage.
+> Native Apple HomeKit smart home controller running a full HAP (HomeKit Accessory Protocol) server on an ESP8266 microcontroller, with no cloud dependency, no bridge device, and no subscription.
 
 | Attribute | Detail |
 |---|---|
-| **Stack** | Python · Selenium WebDriver · keyring (macOS Keychain) |
-| **Security** | Credentials stored in macOS Keychain — never in plaintext |
-| **Platform** | macOS Terminal |
-| **Features** | Stale element handling · Page transition management · Single-command login |
+| **Stack** | C++ (80 lines), ESP8266 NodeMCU, Dual Relay Module |
+| **Protocol** | HAP (HomeKit Accessory Protocol) running entirely on-chip |
+| **Integration** | Native iPhone, iPad, Mac, Apple Watch, HomePod support via Siri |
+| **Safety** | Active-LOW relay logic (both outputs default to OFF on power-up) |
+| **Architecture** | Wi-Fi, protocol handling, pairing, and relay control all on a single microcontroller |
+| **Repository** | [SmartHomeAutomationSocket](https://github.com/MohammadFayasKhan/SmartHomeAutomationSocket) |
 
-**Engineering insight:** Demonstrates real-world Python automation beyond tutorials — secure credential integration, browser state management, and production-ready error handling.
+**Engineering highlight:** The ESP8266 runs a full HAP server on-chip, handling Wi-Fi, protocol negotiation, device pairing, and relay control simultaneously. No Raspberry Pi or external hub required. Three source files, eighty lines of C++, full Apple ecosystem integration.
 
 </details>
 
 <details>
-<summary><b>🕹️ Joy Mouse v1.0 — Joystick-Controlled Hardware Mouse</b></summary>
+<summary><b>🎓 LPU CGPA Calculator: Student-Grade Academic Tool</b></summary>
 
 <br/>
 
-> Hardware HID interface built in a single weekend using an Arduino Nano and fewer than 60 lines of Python.
+> Browser-based CGPA and TGPA calculator used by LPU students, with complete client-side privacy.
 
 | Attribute | Detail |
 |---|---|
-| **Stack** | Arduino Nano · Python · PySerial · PyAutoGUI |
-| **Serial Speed** | 250,000 baud |
-| **Cycle Time** | Under 5ms per input cycle |
-| **Algorithm** | Center calibration · Deadzone filtering · Power 2.2 non-linear acceleration |
-| **Roadmap** | v1.0 Wired (released) → v2.0 Wi-Fi ESP32 → v3.0 Bluetooth HID → v4.0 Gesture-Based |
+| **Stack** | Vanilla JavaScript, HTML, CSS, localStorage |
+| **Privacy** | 100% client-side computation, no database, data never leaves the browser |
+| **Features** | Add/edit/delete semesters, real-time TGPA + CGPA recalculation, mobile responsive |
+| **Impact** | 177+ reactions, 9,200+ LinkedIn impressions, active user base at LPU |
 
-**What it demonstrates:** Embedded + Python integration, signal processing concepts (deadzone, calibration, non-linear scaling), and a disciplined roadmap for iterative hardware development.
+**Engineering highlight:** Built for a real problem faced by every LPU student. Clean, dependency-free, and fully understandable. Demonstrates genuine independent engineering and practical problem-solving.
 
 </details>
 
 <details>
-<summary><b>🎨 TCS3200 Color Detector — Low-Level Embedded Vision</b></summary>
+<summary><b>🤖 Face Attendance System: AI-Powered Recognition + Geotagging</b></summary>
 
 <br/>
 
-> Real-time RGB color detection using an Arduino Nano and TCS3200 sensor — no libraries, no ML, pure physics and C++.
+> Advanced attendance system using facial recognition and geotagging for secure, automated tracking with a high-performance backend and real-time face detection.
 
 | Attribute | Detail |
 |---|---|
-| **Stack** | C++ · Arduino Nano · TCS3200 Sensor |
-| **Method** | Pulse-width measurement · Dominant channel detection · Tri-LED output |
-| **Dependencies** | Zero external libraries |
+| **Stack** | Python, FastAPI, React, Tailwind CSS, SQLite, dlib |
+| **AI/ML** | dlib face recognition, real-time face detection |
+| **Features** | Geotagging, automated tracking, real-time detection dashboard |
+| **Architecture** | FastAPI backend with React frontend, computer vision inference pipeline |
+| **Repository** | [Face-Attendance-System](https://github.com/MohammadFayasKhan/Face-Attendance-System) |
 
-**Engineering note:** Demonstrates understanding of hardware-level frequency-to-light mapping and why lower pulse frequency means more light detected — the kind of counterintuitive sensor behavior that only hands-on builds reveal.
+**Engineering highlight:** Combines computer vision (dlib face recognition), geolocation services, and a full-stack web application into a cohesive attendance management system. Demonstrates integration of AI inference with production web architecture.
 
 </details>
 
@@ -247,10 +238,10 @@ Currently in a focused sprint — building depth in **Java + DSA** (Striver A2Z)
 
 | Platform | Status |
 |---|---|
-| **GSSoC '26** | Accepted Contributor · GirlScript Summer of Code · Open Source Track |
-| **JPMorgan Chase Code For Good** | HackerRank Coding Round Cleared · HireVue Invitation Received (SEP 2027) |
-| **Web-A-Thon Hackathon** | Built "Budget Tracker for Students" · ReactJS + NodeJS |
-| **Hack-A-Throne 1.0 (AIESEC)** | Frontend development · PC Building web platform |
+| **GSSoC '26** | Accepted Contributor, GirlScript Summer of Code, Open Source Track |
+| **JPMorgan Chase Code For Good** | HackerRank Coding Round Cleared, HireVue Invitation Received (SEP 2027) |
+| **Web-A-Thon Hackathon** | Built "Budget Tracker for Students" using ReactJS + NodeJS |
+| **Hack-A-Throne 1.0 (AIESEC)** | Frontend development, PC Building web platform |
 
 </div>
 
@@ -263,11 +254,12 @@ Currently in a focused sprint — building depth in **Java + DSA** (Striver A2Z)
 | Recognition | Details |
 |---|---|
 | **LPU University Honor Roll** | Awarded for outstanding academic performance |
-| **CGPA 9.64** | Consistent excellence: S1 9.55 → S2 9.63 → S3 9.76 → S4 9.64 |
-| **JPMorgan Chase Code For Good** | Cleared HackerRank round · Received HireVue interview invitation |
+| **CGPA 9.64** | Consistent excellence: S1 9.55, S2 9.63, S3 9.76, S4 9.64 |
+| **JPMorgan Chase Code For Good** | Cleared HackerRank round, received HireVue interview invitation |
 | **GSSoC '26 Contributor** | Accepted into GirlScript Summer of Code 2026 |
 | **93.18% ML Accuracy** | Deployed production crop intelligence model on Hugging Face |
 | **CPUSCHED Live Deploy** | Shipped open-source React app used by OS students at LPU |
+| **Inspire Manak Fair** | Science fair participation and project demonstration |
 
 </div>
 
@@ -280,32 +272,28 @@ Currently in a focused sprint — building depth in **Java + DSA** (Striver A2Z)
 **Oracle**
 
 ![Oracle AI Foundations](https://img.shields.io/badge/Oracle_Cloud-AI_Foundations_Associate_2025-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-<br/>
-
-**Skillera**
-
-![AI/ML](https://img.shields.io/badge/Skillera-Introduction_to_AI_%26_ML-4285F4?style=flat-square)
 &nbsp;
-![Linux](https://img.shields.io/badge/Skillera-Linux_Commands_%26_Shell_Scripting-0F9D58?style=flat-square)
+![Oracle Foundations](https://img.shields.io/badge/Oracle_Cloud-Certified_Foundations_Associate_2025-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 <br/>
 
-**CSE Pathshala**
+**Google**
 
-![C Programming](https://img.shields.io/badge/CSE_Pathshala-C_Programming_(18hr)-00979D?style=flat-square)
-
-<br/>
-
-**LPU × iamneo**
-
-![Computer Programming](https://img.shields.io/badge/LPU_%C3%97_iamneo-Computer_Programming_(72hr)-7C3AED?style=flat-square)
+![Google Analytics](https://img.shields.io/badge/Google-Analytics_Certification-4285F4?style=flat-square&logo=google&logoColor=white)
 
 <br/>
 
-**Coding Tantra**
+**NASSCOM**
 
-![Interview Skills](https://img.shields.io/badge/Coding_Tantra-Interview_Skills-6366F1?style=flat-square)
+![ML Image Processing](https://img.shields.io/badge/NASSCOM-Machine_Learning_%26_Image_Processing-0F9D58?style=flat-square)
+&nbsp;
+![Chatbot Development](https://img.shields.io/badge/NASSCOM-Chatbot_%26_Smart_Assistant_Development-0F9D58?style=flat-square)
+
+<br/>
+
+**Infosys**
+
+![C++ Programming](https://img.shields.io/badge/Infosys_Springboard-Programming_Using_C++-007ACC?style=flat-square&logo=infosys&logoColor=white)
 
 </div>
 
@@ -327,11 +315,25 @@ Currently in a focused sprint — building depth in **Java + DSA** (Striver A2Z)
 
 ---
 
-## GitHub Trophies
+## GitHub Trophies & Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MohammadFayasKhan&theme=tokyonight&no-frame=true&margin-w=12&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MohammadFayasKhan&theme=tokyonight&no-frame=true&margin-w=12&row=1&column=7"/>
+
+<br/><br/>
+
+<a href="https://github.com/users/MohammadFayasKhan/achievements/quickdraw">
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="80" alt="Quickdraw"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/users/MohammadFayasKhan/achievements/yolo">
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="80" alt="YOLO"/>
+</a>
+
+<br/>
+
+`Quickdraw` &nbsp; `YOLO`
 
 </div>
 
@@ -369,13 +371,13 @@ Currently in a focused sprint — building depth in **Java + DSA** (Striver A2Z)
 
 <div align="center">
 
-| Semester | TGPA | Highlights |
+| Semester | TGPA | Key Subjects |
 |---|---|---|
-| **Semester 1** | **9.55** | Python · Computing · Engineering Mathematics — all Outstanding |
-| **Semester 2** | **9.63** | DBMS · Software Engineering · Computer Programming — all Outstanding |
-| **Semester 3** | **9.76** | OOP · DSA · Computer Networks · Networking Essentials — all Outstanding |
-| **Semester 4** | **9.64** | OS · Design & Analysis of Algorithms · Theory of Computation — all Outstanding |
-| **Overall CGPA** | **9.64** | University Honor Roll · AI/ML Minor |
+| **Semester 1** | **9.55** | Python, Computing, Engineering Mathematics |
+| **Semester 2** | **9.63** | DBMS, Software Engineering, Computer Programming, Discrete Mathematics |
+| **Semester 3** | **9.76** | OOP, Data Structures and Algorithms, Computer Networks, Probability and Statistics |
+| **Semester 4** | **9.64** | Operating Systems, Design and Analysis of Algorithms, Theory of Computation, Computer Organization |
+| **Overall CGPA** | **9.64** | University Honor Roll, AI/ML Minor |
 
 </div>
 
@@ -384,24 +386,24 @@ Currently in a focused sprint — building depth in **Java + DSA** (Striver A2Z)
 ## Current Focus
 
 ```yaml
-Primary Track — DSA + Java:
-  Roadmap: Striver A2Z (in order, no skipping)
-  Language: Java (primary interview language)
-  Goal: 200+ genuinely cold-solved problems by Semester 6
-  Practice rule: 25-minute attempt rule before any hints
+Primary Track: C++ DSA
+  Roadmap: Striver A2Z (sequential, no skipping)
+  Language: C++ (primary problem-solving language)
+  Practice: 25-minute attempt rule before any hints
+  Goal: 200+ cold-solved problems by Semester 6
 
-Secondary Track — AI/ML:
-  Course: Apna College AI/ML Prime
-  Domain: Supervised learning → Deep Learning → NLP → MLOps
-  Application: End-to-end projects with real deployment
+Secondary Track: AI/ML
+  Minor: AI/ML Minor at LPU
+  Domain: Supervised Learning, Deep Learning, NLP, Computer Vision
+  Focus: End-to-end projects with real deployment
 
 Building:
-  - Backend REST API with Java + Spring Boot (planned)
-  - AI/ML project with full deployment pipeline
+  - AI/ML projects with production deployment pipelines
   - Open source contributions via GSSoC '26
+  - Backend APIs and intelligent applications
 
 Open To:
-  - Software Engineering internships
+  - Software Engineering internships at product companies
   - AI/ML Engineer opportunities
   - Open source collaborations on impactful projects
 ```
@@ -423,10 +425,6 @@ Open To:
 <a href="https://github.com/MohammadFayasKhan" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-MohammadFayasKhan-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
-<a href="https://instagram.com/fayaskhanx" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fayaskhanx-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
 
 </div>
 
@@ -434,7 +432,7 @@ Open To:
 
 <div align="center">
 
-*Building at the intersection of AI/ML, embedded systems, and software engineering — one genuine problem at a time.*
+*Building intelligent software at the intersection of AI/ML, full-stack engineering, and embedded systems.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
