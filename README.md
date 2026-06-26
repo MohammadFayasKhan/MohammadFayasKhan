@@ -127,7 +127,7 @@ I solve DSA problems in **C++** (Striver A2Z roadmap), build AI/ML systems in **
 ## Featured Projects
 
 <details>
-<summary><b>🌾 Smart Crop Intelligence System: IoT + ML Precision Agriculture Platform</b></summary>
+<summary><b>🌿 Smart Crop Intelligence System: IoT + ML Precision Agriculture Platform</b></summary>
 
 <br/>
 
@@ -147,14 +147,14 @@ I solve DSA problems in **C++** (Striver A2Z roadmap), build AI/ML systems in **
 | **Endpoints** | `/predict` (dashboard), `/predict/compact` (memory-optimized for MCU) |
 | **Course** | CSE274 Applied Machine Learning at LPU |
 | **Repository** | [smart-crop-intelligence-system](https://github.com/MohammadFayasKhan/smart-crop-intelligene-system) |
-| **Live Demo** | [Hugging Face Spaces](https://huggingface.co/spaces/fayaskhan/smart-crop-intelligence) |
+| **Live Demo** | [fayasx-smart-plant.hf.space](https://fayasx-smart-plant.hf.space) |
 
 **Engineering highlight:** The model is trained exclusively on sensor-measurable variables (no NPK or pH inputs that the hardware cannot read), ensuring zero train-deploy feature mismatch. Rolling telemetry is visualized live in the web dashboard.
 
 </details>
 
 <details>
-<summary><b>⚙️ CPUSCHED: Interactive CPU Scheduling Simulator</b></summary>
+<summary><b>⚙️ Cpu Sched: Interactive CPU Scheduling Simulator</b></summary>
 
 <br/>
 
@@ -177,7 +177,7 @@ I solve DSA problems in **C++** (Striver A2Z roadmap), build AI/ML systems in **
 </details>
 
 <details>
-<summary><b>🏠 SmartHomeAutomationSocket: ESP8266 + Apple HomeKit Integration</b></summary>
+<summary><b>🏠 Smart Home Automation Socket: ESP8266 + Apple HomeKit Integration</b></summary>
 
 <br/>
 
@@ -198,7 +198,7 @@ I solve DSA problems in **C++** (Striver A2Z roadmap), build AI/ML systems in **
 
 
 <details>
-<summary><b>🤖 Face Attendance System: AI-Powered Recognition + Geotagging</b></summary>
+<summary><b>👨🏻‍💻 Face Attendance System: AI-Powered Recognition + Geotagging</b></summary>
 
 <br/>
 
