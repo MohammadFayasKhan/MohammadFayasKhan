@@ -322,6 +322,13 @@ I solve DSA problems in **C++** (Striver A2Z roadmap), build AI/ML systems in **
       <br/>
       <code>YOLO</code>
     </td>
+    <td align="center" style="border: none;">
+      <a href="https://github.com/users/MohammadFayasKhan/achievements/pull-shark">
+        <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" alt="PullShark"/>
+      </a>
+      <br/>
+      <code>PullShark</code>
+    </td>
   </tr>
 </table>
 
