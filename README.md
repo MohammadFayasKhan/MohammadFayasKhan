@@ -2,14 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Mohammad+Fayas+Khan;AI+%2F+ML+Engineer+in+the+Making;Software+Engineer+%7C+C%2B%2B+%7C+Full+Stack;CSE+%40+LPU+%7C+CGPA+9.64+%7C+Honor+Roll;GSSoC+'26+Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Mohammad+Fayas+Khan;AI+%2F+ML+Engineer+in+the+Making;Software+Engineer+%7C+C%2B%2B+%7C+Full+Stack;CSE+%40+LPU+%7C+CGPA+9.66+%7C+Honor+Roll;GSSoC+'26+Open+Source+Contributor" alt="Typing SVG" />
 
 <br/>
 
 <p>
   <img src="https://img.shields.io/badge/B.Tech_CSE-Lovely_Professional_University-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/CGPA-9.64_/_10-10B981?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CGPA-9.66_/_10-10B981?style=flat-square"/>
   &nbsp;
   <img src="https://img.shields.io/badge/AI%2FML-Minor_Specialization-6366F1?style=flat-square"/>
   &nbsp;
@@ -48,7 +48,7 @@
 
 ## About
 
-I am a **Computer Science Engineering** student at **Lovely Professional University** with a **9.64 CGPA** and recognition on the **University Honor Roll**. I pursue an **AI/ML Minor** alongside core CSE coursework, and I build software that runs in the real world: deployed ML models with 93%+ accuracy, production React applications used by students, hardware-software systems with native Apple HomeKit integration, and AI-powered full-stack applications with facial recognition.
+I am a **Computer Science Engineering** student at **Lovely Professional University** with a **9.66 CGPA** and recognition on the **University Honor Roll**. I pursue an **AI/ML Minor** alongside core CSE coursework, and I build software that runs in the real world: deployed ML models with 93%+ accuracy, production React applications used by students, hardware-software systems with native Apple HomeKit integration, and AI-powered full-stack applications with facial recognition.
 
 My engineering work spans the full stack, from ESP8266 sensors streaming live data into FastAPI backends, to ML pipelines deployed on Hugging Face, to interactive web apps shipped on Vercel. I cleared the **JPMorgan Chase Code For Good** HackerRank round and contribute to open source through **GSSoC '26**.
 
@@ -241,7 +241,7 @@ I solve DSA problems in **C++** (Striver A2Z roadmap), build AI/ML systems in **
 | Recognition | Details |
 |---|---|
 | **LPU University Honor Roll** | Awarded for outstanding academic performance |
-| **CGPA 9.64** | Consistent excellence: S1 9.55, S2 9.63, S3 9.76, S4 9.64 |
+| **CGPA 9.66** | Consistent excellence: S1 9.55, S2 9.63, S3 9.76, S4 9.72 |
 | **JPMorgan Chase Code For Good** | Cleared HackerRank round, received HireVue interview invitation |
 | **GSSoC '26 Contributor** | Accepted into GirlScript Summer of Code 2026 |
 | **93.18% ML Accuracy** | Deployed production crop intelligence model on Hugging Face |
@@ -373,8 +373,8 @@ I solve DSA problems in **C++** (Striver A2Z roadmap), build AI/ML systems in **
 | **Semester 1** | **9.55** | Python, Computing, Engineering Mathematics |
 | **Semester 2** | **9.63** | DBMS, Software Engineering, Computer Programming, Discrete Mathematics |
 | **Semester 3** | **9.76** | OOP, Data Structures and Algorithms, Computer Networks, Probability and Statistics |
-| **Semester 4** | **9.64** | Operating Systems, Design and Analysis of Algorithms, Theory of Computation, Computer Organization |
-| **Overall CGPA** | **9.64** | University Honor Roll, AI/ML Minor |
+| **Semester 4** | **9.72** | Operating Systems, Design and Analysis of Algorithms, Theory of Computation, Computer Organization |
+| **Overall CGPA** | **9.66** | University Honor Roll, AI/ML Minor |
 
 </div>
 
