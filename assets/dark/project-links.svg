@@ -1,0 +1,20 @@
+<svg viewBox="0 0 1000 560" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Project links, delivered systems, and engineering decisions">
+  <style>
+    :root{--bone:#ddd;--muted:#888;--rule:#444;--accent:#aaa;--panel:#111}
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+    .rise{opacity:0;animation:rise .6s ease forwards}.a1{animation-delay:.15s}.a2{animation-delay:.3s}.a3{animation-delay:.45s}.a4{animation-delay:.6s}.a5{animation-delay:.75s}.a6{animation-delay:.9s}.a7{animation-delay:1.05s}
+    @keyframes rise{to{opacity:1}} @media(prefers-reduced-motion:reduce){.rise{animation:none;opacity:1}}
+  </style>
+  <rect x="0" y="0" width="1000" height="560" fill="var(--panel)" stroke="var(--rule)"/>
+  <text class="mono" x="48" y="34" font-size="11" letter-spacing="3.5" fill="var(--muted)">PROJECT LINKS · DELIVERED SYSTEMS · ENGINEERING DECISIONS</text>
+  <line x1="48" y1="52" x2="952" y2="52" stroke="var(--rule)"/>
+  <text class="mono" x="48" y="78" font-size="11" fill="var(--muted)">SYSTEM</text><text class="mono" x="330" y="78" font-size="11" fill="var(--muted)">OUTCOME</text><text class="mono" x="952" y="78" font-size="11" text-anchor="end" fill="var(--muted)">LINK</text>
+  <g class="mono rise a1" fill="var(--bone)" font-size="12"><text x="48" y="108">CROP INTELLIGENCE ROVER</text><text x="330" y="108" fill="var(--muted)">95.13% · 0.9354 F1 · 38 classes</text><text x="952" y="108" text-anchor="end" fill="var(--accent)">REPO · LIVE · DEMO</text></g>
+  <g class="mono rise a2" fill="var(--bone)" font-size="12"><text x="48" y="158">LPU UMS AGENT</text><text x="330" y="158" fill="var(--muted)">closed loop · 139 tests · MV3</text><text x="952" y="158" text-anchor="end" fill="var(--accent)">REPOSITORY</text></g>
+  <g class="mono rise a3" fill="var(--bone)" font-size="12"><text x="48" y="208">CODE EXPLAIN</text><text x="330" y="208" fill="var(--muted)">Pydantic · self-repair · 3-model fallback</text><text x="952" y="208" text-anchor="end" fill="var(--accent)">REPOSITORY</text></g>
+  <g class="mono rise a4" fill="var(--bone)" font-size="12"><text x="48" y="258">SMART CROP INTELLIGENCE</text><text x="330" y="258" fill="var(--muted)">93.18% · 27.61ms · ESP8266 telemetry</text><text x="952" y="258" text-anchor="end" fill="var(--accent)">REPO · LIVE</text></g>
+  <g class="mono rise a5" fill="var(--bone)" font-size="12"><text x="48" y="308">CPU SCHED</text><text x="330" y="308" fill="var(--muted)">5 algorithms · animated Gantt charts</text><text x="952" y="308" text-anchor="end" fill="var(--accent)">REPO · LIVE</text></g>
+  <g class="mono rise a6" fill="var(--bone)" font-size="12"><text x="48" y="358">HOMEKIT SOCKET · FACE ATTENDANCE</text><text x="330" y="358" fill="var(--muted)">ESP8266 HAP · dlib · geotagging</text><text x="952" y="358" text-anchor="end" fill="var(--accent)">REPOSITORIES</text></g>
+  <line x1="48" y1="390" x2="952" y2="390" stroke="var(--rule)"/>
+  <g class="mono rise a7" fill="var(--muted)" font-size="12"><text x="48" y="420">ENGINEERING PRINCIPLES</text><text x="48" y="448">deterministic critical logic · validated model output · measurable hardware inputs</text><text x="48" y="476">explainable predictions · observable services · useful interfaces</text></g>
+</svg>
