@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generates animated light/dark SVG assets for the profile README (v2).
+"""Generates animated light/dark SVG assets for the profile README.
 Run from the repo root: python generate_assets.py
 Output: assets/*.svg (light) and assets/dark/*.svg (dark)"""
 import os
@@ -7,8 +7,8 @@ import os
 W = 900
 FONT = "'JetBrains Mono',SFMono-Regular,Consolas,monospace"
 THEMES = {
-    "light": dict(ink="#0d1117", mut="#57606a", line="#d0d7de", acc="#7C3AED", card="#f6f8fa", ok="#1a7f37"),
-    "dark":  dict(ink="#e6edf3", mut="#8b949e", line="#30363d", acc="#A78BFA", card="#161b22", ok="#3fb950"),
+    "light": dict(ink="#111111", mut="#666666", line="#c7c7c7", acc="#444444", card="#ffffff", ok="#333333"),
+    "dark": dict(ink="#eeeeee", mut="#999999", line="#444444", acc="#cccccc", card="#111111", ok="#dddddd"),
 }
 
 def esc(s):
@@ -34,6 +34,27 @@ def chip(x, y, s, c, fill=None):
     w = len(s) * 6.8 + 18
     return (f'<rect x="{x:.0f}" y="{y}" width="{w:.0f}" height="22" rx="11" fill="none" stroke="{c["acc"]}"/>'
             + T(round(x + w / 2), y + 15, s, fill or c["acc"], 11, 700, "middle")), w
+
+
+def header(c):
+    body = f'<rect x="0" y="0" width="{W}" height="260" fill="{c["card"]}" stroke="{c["line"]}"/>'
+    body += f'<line x1="30" y1="30" x2="870" y2="30" stroke="{c["line"]}"><animate attributeName="x2" from="30" to="870" dur="1.4s" fill="freeze"/></line>'
+    body += G(0.2, T(32, 82, "MOHAMMAD FAYAS KHAN", c["ink"], 34, 700))
+    body += G(0.5, T(34, 116, "SOFTWARE ENGINEER  /  AI·ML  /  EMBEDDED SYSTEMS", c["mut"], 13, 700))
+    body += G(0.8, T(34, 162, "computer vision · agentic AI · full-stack products · edge robotics", c["ink"], 15))
+    body += G(1.0, T(34, 198, "CSE @ LPU  |  CGPA 9.66  |  PHAGWARA, INDIA", c["mut"], 12, 700))
+    body += f'<circle cx="822" cy="170" r="52" fill="none" stroke="{c["line"]}" stroke-width="2"><animate attributeName="r" values="42;58;42" dur="4s" repeatCount="indefinite"/></circle>'
+    body += f'<circle cx="822" cy="170" r="5" fill="{c["acc"]}"><animate attributeName="cy" values="150;190;150" dur="3s" repeatCount="indefinite"/></circle>'
+    body += f'<line x1="34" y1="230" x2="260" y2="230" stroke="{c["acc"]}" stroke-width="3"><animate attributeName="x2" from="34" to="260" dur="1s" fill="freeze"/></line>'
+    return 260, body
+
+
+def now(c):
+    body = f'<rect x="0" y="0" width="{W}" height="64" fill="{c["card"]}" stroke="{c["line"]}"/>'
+    body += T(24, 39, "NOW  >", c["acc"], 12, 700)
+    body += T(110, 39, "C++ DSA  ·  AI/ML SYSTEMS  ·  ROVER POLISH  ·  GSSOC '26  ·  OPEN TO INTERNSHIPS", c["ink"], 12, 700)
+    body += f'<circle cx="870" cy="32" r="5" fill="{c["ok"]}"><animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/></circle>'
+    return 64, body
 
 # ---------- section dividers ----------
 def section(c, n, title):
@@ -363,7 +384,7 @@ def status(c):
 SECTIONS = [(1, "whoami"), (2, "system map"), (3, "projects"), (4, "deep dives"), (5, "telemetry"),
             (6, "the route"), (7, "credentials"), (8, "stack"), (9, "roadmap")]
 ASSETS = {f"s{n:02d}": (lambda c, n=n, t=t: section(c, n, t)) for n, t in SECTIONS}
-ASSETS.update(whoami=whoami, ecosystem=ecosystem, projects=projects, rover=rover, agent=agent,
+ASSETS.update(header=header, now=now, whoami=whoami, ecosystem=ecosystem, projects=projects, rover=rover, agent=agent,
               gateway=gateway, telemetry=telemetry, timeline=route, credentials=credentials,
               academics=academics, stack=stack, roadmap=roadmap, footer=status)
 
