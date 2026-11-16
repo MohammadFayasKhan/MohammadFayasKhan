@@ -1,1 +1,75 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 196" width="900" height="196" font-family="'JetBrains Mono',SFMono-Regular,Consolas,monospace"><line x1="20" y1="110" x2="880" y2="110" stroke="#c7c7c7" stroke-width="2"/><line x1="20" y1="110" x2="20" y2="110" stroke="#444444" stroke-width="2"><animate attributeName="x2" from="20" to="880" dur="3s" fill="freeze"/></line><g opacity="0"><circle cx="80" cy="110" r="6" fill="#444444"/><circle cx="80" cy="110" r="6" fill="none" stroke="#444444"><animate attributeName="r" from="6" to="16" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" from="0.6" to="0" dur="2s" repeatCount="indefinite"/></circle><line x1="80" y1="104" x2="80" y2="88" stroke="#c7c7c7"/><text x="80" y="62" font-size="12" font-weight="700" fill="#444444" text-anchor="middle">Aug 2024</text><text x="80" y="80" font-size="11" font-weight="400" fill="#111111" text-anchor="middle">Joined LPU, B.Tech CSE</text><animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.0s" fill="freeze"/></g><g opacity="0"><circle cx="172" cy="110" r="6" fill="#444444"/><circle cx="172" cy="110" r="6" fill="none" stroke="#444444"><animate attributeName="r" from="6" to="16" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" from="0.6" to="0" dur="2s" repeatCount="indefinite"/></circle><line x1="172" y1="116" x2="172" y2="132" stroke="#c7c7c7"/><text x="172" y="152" font-size="12" font-weight="700" fill="#444444" text-anchor="middle">Aug 2025</text><text x="172" y="170" font-size="11" font-weight="400" fill="#111111" text-anchor="middle">OCI AI Foundations</text><animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.3s" fill="freeze"/></g><g opacity="0"><circle cx="264" cy="110" r="6" fill="#444444"/><circle cx="264" cy="110" r="6" fill="none" stroke="#444444"><animate attributeName="r" from="6" to="16" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" from="0.6" to="0" dur="2s" repeatCount="indefinite"/></circle><line x1="264" y1="104" x2="264" y2="88" stroke="#c7c7c7"/><text x="264" y="62" font-size="12" font-weight="700" fill="#444444" text-anchor="middle">Nov 2025</text><text x="264" y="80" font-size="11" font-weight="400" fill="#111111" text-anchor="middle">University Honor Roll</text><animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.6s" fill="freeze"/></g><g opacity="0"><circle cx="356" cy="110" r="6" fill="#444444"/><circle cx="356" cy="110" r="6" fill="none" stroke="#444444"><animate attributeName="r" from="6" to="16" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" from="0.6" to="0" dur="2s" repeatCount="indefinite"/></circle><line x1="356" y1="116" x2="356" y2="132" stroke="#c7c7c7"/><text x="356" y="152" font-size="12" font-weight="700" fill="#444444" text-anchor="middle">Dec 2025</text><text x="356" y="170" font-size="11" font-weight="400" fill="#111111" text-anchor="middle">NASSCOM ML + Imaging</text><animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.8999999999999999s" fill="freeze"/></g><g opacity="0"><circle cx="448" cy="110" r="6" fill="#444444"/><circle cx="448" cy="110" r="6" fill="none" stroke="#444444"><animate attributeName="r" from="6" to="16" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" from="0.6" to="0" dur="2s" repeatCount="indefinite"/></circle><line x1="448" y1="104" x2="448" y2="88" stroke="#c7c7c7"/><text x="448" y="62" font-size="12" font-weight="700" fill="#444444" text-anchor="middle">Jun 2026</text><text x="448" y="80" font-size="11" font-weight="400" fill="#111111" text-anchor="middle">AI Engineer Launchpad</text><animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="1.2s" fill="freeze"/></g><g opacity="0"><circle cx="540" cy="110" r="6" fill="#444444"/><circle cx="540" cy="110" r="6" fill="none" stroke="#444444"><animate attributeName="r" from="6" to="16" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" from="0.6" to="0" dur="2s" repeatCount="indefinite"/></circle><line x1="540" y1="116" x2="540" y2="132" stroke="#c7c7c7"/><text x="540" y="152" font-size="12" font-weight="700" fill="#444444" text-anchor="middle">Jul 2026</text><text x="540" y="170" font-size="11" font-weight="400" fill="#111111" text-anchor="middle">Code Explain shipped</text><animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="1.5s" fill="freeze"/></g><g opacity="0"><circle cx="632" cy="110" r="6" fill="#444444"/><circle cx="632" cy="110" r="6" fill="none" stroke="#444444"><animate attributeName="r" from="6" to="16" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" from="0.6" to="0" dur="2s" repeatCount="indefinite"/></circle><line x1="632" y1="104" x2="632" y2="88" stroke="#c7c7c7"/><text x="632" y="62" font-size="12" font-weight="700" fill="#444444" text-anchor="middle">Aug 2026</text><text x="632" y="80" font-size="11" font-weight="400" fill="#111111" text-anchor="middle">LPU UMS Agent</text><animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="1.7999999999999998s" fill="freeze"/></g><g opacity="0"><circle cx="724" cy="110" r="6" fill="#444444"/><circle cx="724" cy="110" r="6" fill="none" stroke="#444444"><animate attributeName="r" from="6" to="16" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" from="0.6" to="0" dur="2s" repeatCount="indefinite"/></circle><line x1="724" y1="116" x2="724" y2="132" stroke="#c7c7c7"/><text x="724" y="152" font-size="12" font-weight="700" fill="#444444" text-anchor="middle">Sep 2026</text><text x="724" y="170" font-size="11" font-weight="400" fill="#111111" text-anchor="middle">GearUp Top 30 + Oracle AI</text><animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="2.1s" fill="freeze"/></g><g opacity="0"><circle cx="816" cy="110" r="6" fill="#444444"/><circle cx="816" cy="110" r="6" fill="none" stroke="#444444"><animate attributeName="r" from="6" to="16" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" from="0.6" to="0" dur="2s" repeatCount="indefinite"/></circle><line x1="816" y1="104" x2="816" y2="88" stroke="#c7c7c7"/><text x="816" y="62" font-size="12" font-weight="700" fill="#444444" text-anchor="middle">Oct 2026</text><text x="816" y="80" font-size="11" font-weight="400" fill="#111111" text-anchor="middle">Crop Intelligence Rover</text><animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="2.4s" fill="freeze"/></g></svg>
+<svg viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Timeline: 2020 first build, 2024 LPU, Phagwara and Team Innovex, 2025 AI Engineer Launchpad, 2026 GearUp hardware leadership, now open to work">
+  <style>
+    :root { --bone: #444444; --muted: #888888; --dim: #AAAAAA; --rule: #C0C0C0; --accent: #555555; }
+    @media (prefers-color-scheme: dark) { :root { --bone: #DDDDDD; --muted: #777777; --dim: #666666; --rule: #444444; --accent: #AAAAAA; } }
+    .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .axis { stroke: var(--rule); stroke-width: 1; stroke-dasharray: 1110; stroke-dashoffset: 1110; animation: draw 2.4s cubic-bezier(.6,0,.2,1) forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    .m { opacity: 0; animation: rise .7s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes rise { from{opacity:0;transform:translateY(8px)} to{opacity:1;transform:translateY(0)} }
+    .m1{animation-delay:.4s}.m2{animation-delay:.9s}.m3{animation-delay:1.4s}.m4{animation-delay:1.7s}.m5{animation-delay:2.0s}.m6{animation-delay:2.3s}.m7{animation-delay:2.6s}
+    .pulse { animation: pulse 2.6s ease-in-out infinite; }
+    @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.35} }
+    .ring { animation: ring 2.6s ease-out infinite; transform-origin: 1060px 125px; }
+    @keyframes ring { 0%{transform:scale(.4);opacity:.8} 80%,100%{transform:scale(3);opacity:0} }
+    @media (prefers-reduced-motion: reduce) {
+      .axis,.m,.pulse,.ring { animation: none; } .axis{stroke-dashoffset:0} .m{opacity:1} .ring{opacity:0}
+    }
+      :root { --bone: #000000; --muted: #000000; --dim: #000000; --rule: #000000; --accent: #000000; --node-bg: #FFFFFF; --core-bg: #FFFFFF; --ghost: #000000; }
+  </style>
+
+  <line x1="48" y1="40" x2="1152" y2="40" stroke="var(--rule)"/>
+  <text fill="var(--muted)" class="mono" x="48" y="28" font-size="11" letter-spacing="3.5">THE ROUTE SO FAR</text>
+  <text fill="var(--muted)" class="mono" x="1152" y="28" font-size="11" letter-spacing="3.5" text-anchor="end">FIG. 03</text>
+
+  <line class="axis" x1="48" y1="125" x2="1158" y2="125"/>
+
+  <g class="m m1">
+    <circle cx="100" cy="125" r="4" fill="var(--bone)"/>
+    <line x1="100" y1="121" x2="100" y2="96" stroke="var(--rule)"/>
+    <text fill="var(--accent)" class="mono" x="100" y="74" font-size="11" letter-spacing="2" text-anchor="middle">2020</text>
+    <text fill="var(--bone)" class="mono" x="100" y="90" font-size="10.5" letter-spacing="1" text-anchor="middle">first build</text>
+  </g>
+
+  <g class="m m2">
+    <circle cx="310" cy="125" r="4" fill="var(--bone)"/>
+    <line x1="310" y1="129" x2="310" y2="154" stroke="var(--rule)"/>
+    <text fill="var(--accent)" class="mono" x="310" y="172" font-size="11" letter-spacing="2" text-anchor="middle">2024</text>
+    <text fill="var(--bone)" class="mono" x="310" y="188" font-size="10.5" letter-spacing="1" text-anchor="middle">LPU, Phagwara · Team Innovex</text>
+  </g>
+
+  <g class="m m3">
+    <circle cx="520" cy="125" r="4" fill="var(--bone)"/>
+    <line x1="520" y1="121" x2="520" y2="96" stroke="var(--rule)"/>
+    <text fill="var(--accent)" class="mono" x="520" y="74" font-size="11" letter-spacing="2" text-anchor="middle">2025</text>
+    <text fill="var(--bone)" class="mono" x="520" y="90" font-size="10.5" letter-spacing="1" text-anchor="middle">LPU GearUp · hardware leadership</text>
+  </g>
+
+  <g class="m m4">
+    <circle cx="730" cy="125" r="4" fill="var(--bone)"/>
+    <line x1="730" y1="129" x2="730" y2="154" stroke="var(--rule)"/>
+    <text fill="var(--accent)" class="mono" x="730" y="172" font-size="11" letter-spacing="2" text-anchor="middle">2026</text>
+    <text fill="var(--bone)" class="mono" x="730" y="188" font-size="10.5" letter-spacing="1" text-anchor="middle">Crop Rover · 95.13% accuracy</text>
+  </g>
+
+  <g class="m m5">
+    <circle cx="880" cy="125" r="4" fill="var(--bone)"/>
+    <line x1="880" y1="121" x2="880" y2="96" stroke="var(--rule)"/>
+    <text fill="var(--accent)" class="mono" x="880" y="74" font-size="11" letter-spacing="2" text-anchor="middle">2026</text>
+    <text fill="var(--bone)" class="mono" x="880" y="90" font-size="10.5" letter-spacing="1" text-anchor="middle">Code Explain · shipped capstone</text>
+  </g>
+
+  <g class="m m6">
+    <circle class="ring" cx="1060" cy="125" r="4" stroke="var(--accent)" fill="none"/>
+    <circle class="pulse" cx="1060" cy="125" r="4.5" fill="var(--accent)"/>
+    <line x1="1060" y1="129" x2="1060" y2="154" stroke="var(--rule)"/>
+    <text fill="var(--accent)" class="mono" x="1060" y="172" font-size="11" letter-spacing="2" text-anchor="middle">NOW</text>
+    <text fill="var(--bone)" class="mono" x="1060" y="188" font-size="10.5" letter-spacing="1" text-anchor="middle">3rd yr CS · open to internships</text>
+  </g>
+
+  <g class="m m7">
+    <circle cx="1152" cy="125" r="3" fill="var(--dim)"/>
+    <text fill="var(--dim)" class="mono" x="1152" y="105" font-size="10" letter-spacing="2" text-anchor="end">2028 →</text>
+    <text fill="var(--dim)" class="mono" x="1152" y="150" font-size="13" text-anchor="end">the interesting part</text>
+  </g>
+</svg>
