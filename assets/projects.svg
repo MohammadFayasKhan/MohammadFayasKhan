@@ -1,126 +1,31 @@
-<svg viewBox="0 0 1000 1690" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Fifteen projects by Mohammad Fayas Khan">
+<svg viewBox="0 0 1000 1140" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ten selected projects by Mohammad Fayas Khan">
   <style>
-    :root { --ink:#000000; --paper:#FFFFFF; }
-    @media (prefers-color-scheme:dark) { :root { --ink:#FFFFFF; --paper:#000000; } }
-    .mono { font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace; }
-    .row { opacity:0; animation:reveal .55s cubic-bezier(.2,.7,.2,1) forwards; }
-    .rule { stroke:var(--ink); stroke-width:1; }
-    .title { fill:var(--ink); font-size:17px; font-weight:700; letter-spacing:.8px; }
-    .copy { fill:var(--ink); font-size:12px; }
-    .meta { fill:var(--ink); font-size:11px; letter-spacing:.4px; }
-    @keyframes reveal { from { opacity:0; } to { opacity:1; } }
-    .r1{animation-delay:.05s}.r2{animation-delay:.10s}.r3{animation-delay:.15s}.r4{animation-delay:.20s}.r5{animation-delay:.25s}
-    .r6{animation-delay:.30s}.r7{animation-delay:.35s}.r8{animation-delay:.40s}.r9{animation-delay:.45s}.r10{animation-delay:.50s}
-    .r11{animation-delay:.55s}.r12{animation-delay:.60s}.r13{animation-delay:.65s}.r14{animation-delay:.70s}.r15{animation-delay:.75s}
-    @media (prefers-reduced-motion:reduce) { .row { animation:none; opacity:1; } }
-    :root { --ink:#000000; --paper:#FFFFFF; }
+    :root{--ink:#444;--muted:#888;--rule:#c0c0c0;--paper:#fff}
+    @media(prefers-color-scheme:dark){:root{--ink:#ddd;--muted:#888;--rule:#444;--paper:#111}}
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+    .row{opacity:0;animation:reveal .55s cubic-bezier(.2,.7,.2,1) forwards}
+    .title{fill:var(--ink);font-size:16px;font-weight:700;letter-spacing:.7px}
+    .copy{fill:var(--muted);font-size:12px}
+    .meta{fill:var(--ink);font-size:11px;letter-spacing:.35px}
+    .rule{stroke:var(--rule);stroke-width:1}
+    @keyframes reveal{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
+    .r1{animation-delay:.05s}.r2{animation-delay:.1s}.r3{animation-delay:.15s}.r4{animation-delay:.2s}.r5{animation-delay:.25s}
+    .r6{animation-delay:.3s}.r7{animation-delay:.35s}.r8{animation-delay:.4s}.r9{animation-delay:.45s}.r10{animation-delay:.5s}
+    @media(prefers-reduced-motion:reduce){.row{animation:none;opacity:1}}
   </style>
-
+  <rect width="1000" height="1140" fill="var(--paper)"/>
+  <text class="mono" x="48" y="34" font-size="11" letter-spacing="3.5" fill="var(--muted)">TEN SELECTED BUILDS · OUTCOMES · ENGINEERING CHOICES</text>
+  <line x1="48" y1="52" x2="952" y2="52" class="rule"/>
   <g class="mono">
-    <g class="row r1" transform="translate(0 20)">
-      <text class="title" x="48" y="24">01 / CROP INTELLIGENCE ROVER</text>
-      <text class="copy" x="48" y="49">Explainable field rover for leaf disease and risk monitoring.</text>
-      <text class="copy" x="48" y="68">EfficientNetV2-S, YOLO, Mobile-UNet, Grad-CAM, ESP32-CAM and a 4-DOF arm.</text>
-      <text class="meta" x="48" y="87">PYTORCH · FASTAPI · REACT · ESP32 · COMPUTER VISION</text>
-      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
-    </g>
-    <g class="row r2" transform="translate(0 130)">
-      <text class="title" x="48" y="24">02 / LPU UMS AGENT</text>
-      <text class="copy" x="48" y="49">Closed-loop Chrome MV3 agent for live university workflows.</text>
-      <text class="copy" x="48" y="68">DOM-first grounding, deterministic attendance math, IndexedDB privacy and 139 tests.</text>
-      <text class="meta" x="48" y="87">TYPESCRIPT · REACT · FASTAPI · MV3 · LLM EVALS</text>
-      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
-    </g>
-    <g class="row r3" transform="translate(0 240)">
-      <text class="title" x="48" y="24">03 / CODE EXPLAIN</text>
-      <text class="copy" x="48" y="49">AI code tutor with explanations, traces, quizzes and follow-up chat.</text>
-      <text class="copy" x="48" y="68">Schema validation, self-repair and Groq/Gemini provider fallback in Docker.</text>
-      <text class="meta" x="48" y="87">REACT · MONACO · FASTAPI · PYDANTIC · DOCKER</text>
-      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
-    </g>
-    <g class="row r4" transform="translate(0 350)">
-      <text class="title" x="48" y="24">04 / SMART CROP</text>
-      <text class="copy" x="48" y="49">Sensor-driven crop recommendation and plant-health platform.</text>
-      <text class="copy" x="48" y="68">RandomForest at 93.18% accuracy with 27.61ms inference and ESP8266 telemetry.</text>
-      <text class="meta" x="48" y="87">PYTHON · FASTAPI · SKLEARN · ESP8266 · HF SPACES</text>
-      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
-    </g>
-    <g class="row r5" transform="translate(0 460)">
-      <text class="title" x="48" y="24">05 / CPU SCHED</text>
-      <text class="copy" x="48" y="49">Interactive operating-systems scheduling simulator.</text>
-      <text class="copy" x="48" y="68">FCFS, SJF, SRTF, Round Robin and Priority with animated Gantt charts.</text>
-      <text class="meta" x="48" y="87">REACT · VITE · ZUSTAND · TAILWIND · OPEN SOURCE</text>
-      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
-    </g>
-    <g class="row r6" transform="translate(0 570)">
-      <text class="title" x="48" y="24">06 / HOMEKIT SOCKET</text>
-      <text class="copy" x="48" y="49">Native Apple HomeKit HAP server on an ESP8266.</text>
-      <text class="copy" x="48" y="68">Active-LOW relay safety, Siri control and no cloud bridge dependency.</text>
-      <text class="meta" x="48" y="87">C++ · ESP8266 · HOMEKIT · EMBEDDED</text>
-      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
-    </g>
-    <g class="row r7" transform="translate(0 680)">
-      <text class="title" x="48" y="24">07 / FACE ATTENDANCE</text>
-      <text class="copy" x="48" y="49">Facial recognition and geotagging attendance platform.</text>
-      <text class="copy" x="48" y="68">Real-time dlib recognition with FastAPI, React, Tailwind and SQLite.</text>
-      <text class="meta" x="48" y="87">PYTHON · DLIB · FASTAPI · REACT · SQLITE</text>
-      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
-    </g>
-    <g class="row r8" transform="translate(0 790)">
-      <text class="title" x="48" y="24">08 / ATTENTION IS ALL YOU NEED</text>
-      <text class="copy" x="48" y="49">Interactive visual guide to Transformers and self-attention.</text>
-      <text class="copy" x="48" y="68">Hands-on explanations of the architecture behind modern language models.</text>
-      <text class="meta" x="48" y="87">REACT · TYPESCRIPT · TRANSFORMERS · EDUCATION</text>
-      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
-    </g>
-    <g class="row r9" transform="translate(0 900)">
-      <text class="title" x="48" y="24">09 / DESKBUDDY</text>
-      <text class="copy" x="48" y="49">OLED desk companion built around an ESP32.</text>
-      <text class="copy" x="48" y="68">Animated eyes, live weather and clock in a compact embedded interface.</text>
-      <text class="meta" x="48" y="87">C++ · ESP32 · OLED · EMBEDDED UI</text>
-      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
-    </g>
-    <g class="row r10" transform="translate(0 1010)">
-      <text class="title" x="48" y="24">10 / FAYASAI</text>
-      <text class="copy" x="48" y="49">ESP32 voice assistant with an animated OLED interface.</text>
-      <text class="copy" x="48" y="68">Groq Whisper speech-to-text and Llama 3.3 responses through a low-overhead pipeline.</text>
-      <text class="meta" x="48" y="87">C++ · ESP32 · GROQ · WHISPER · LLAMA</text>
-      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
-    </g>
-    <g class="row r11" transform="translate(0 1120)">
-      <text class="title" x="48" y="24">11 / NEETCODE SUBMISSIONS</text>
-      <text class="copy" x="48" y="49">C++ algorithm practice following the NeetCode roadmap.</text>
-      <text class="copy" x="48" y="68">Consistent problem solving with a focus on core data structures and algorithms.</text>
-      <text class="meta" x="48" y="87">C++ · DSA · ALGORITHMS · PROBLEM SOLVING</text>
-      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
-    </g>
-    <g class="row r12" transform="translate(0 1230)">
-      <text class="title" x="48" y="24">12 / AIU POSTER</text>
-      <text class="copy" x="48" y="49">Poster and design experiments for AI/ML communication.</text>
-      <text class="copy" x="48" y="68">Visual storytelling, concise technical explanations and product presentation.</text>
-      <text class="meta" x="48" y="87">DESIGN · AI/ML · COMMUNICATION · CREATIVE TOOLS</text>
-      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
-    </g>
-    <g class="row r13" transform="translate(0 1340)">
-      <text class="title" x="48" y="24">13 / WELLNESS MONITOR</text>
-      <text class="copy" x="48" y="49">Student wellness monitoring and insight generation.</text>
-      <text class="copy" x="48" y="68">Explores responsible data workflows for student wellbeing and actionable trends.</text>
-      <text class="meta" x="48" y="87">PYTHON · AI/ML · DATA · DASHBOARDS</text>
-      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
-    </g>
-    <g class="row r14" transform="translate(0 1450)">
-      <text class="title" x="48" y="24">14 / MEDSCAN AI</text>
-      <text class="copy" x="48" y="49">Computer-vision exploration for medical image workflows.</text>
-      <text class="copy" x="48" y="68">Investigates structured image analysis and user-facing diagnostic assistance.</text>
-      <text class="meta" x="48" y="87">PYTHON · COMPUTER VISION · ML · RESEARCH</text>
-      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
-    </g>
-    <g class="row r15" transform="translate(0 1560)">
-      <text class="title" x="48" y="24">15 / HACKATHON BUILDS</text>
-      <text class="copy" x="48" y="49">Rapid web builds from student hackathons and product challenges.</text>
-      <text class="copy" x="48" y="68">Frontend prototypes focused on clear flows, practical utility and fast iteration.</text>
-      <text class="meta" x="48" y="87">REACT · NODE.JS · JAVASCRIPT · PROTOTYPING</text>
-      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
-    </g>
+    <g class="row r1" transform="translate(0 76)"><text class="title" x="48" y="24">01 / CROP INTELLIGENCE ROVER</text><text class="copy" x="48" y="48">Field rover that combines leaf classification, detection, segmentation and sensor context.</text><text class="copy" x="48" y="66">EfficientNetV2-S reached 95.13% across 38 classes; Grad-CAM keeps predictions inspectable.</text><text class="meta" x="48" y="88">PYTORCH · YOLO · MOBILE-UNET · ESP32-CAM · 4-DOF ARM</text><line x1="48" y1="106" x2="952" y2="106" class="rule"/></g>
+    <g class="row r2" transform="translate(0 180)"><text class="title" x="48" y="24">02 / LPU UMS AGENT</text><text class="copy" x="48" y="48">Closed-loop Chrome MV3 assistant for attendance and university portal workflows.</text><text class="copy" x="48" y="66">DOM-first grounding, deterministic attendance math, local IndexedDB state and 139 automated tests.</text><text class="meta" x="48" y="88">TYPESCRIPT · REACT · MV3 · INDEXEDDB · EVALUATION</text><line x1="48" y1="106" x2="952" y2="106" class="rule"/></g>
+    <g class="row r3" transform="translate(0 284)"><text class="title" x="48" y="24">03 / CODE EXPLAIN</text><text class="copy" x="48" y="48">Interactive code tutor with Monaco editing, explanations, traces, quizzes and follow-up chat.</text><text class="copy" x="48" y="66">Pydantic contracts validate responses; self-repair and provider fallback keep the lesson usable.</text><text class="meta" x="48" y="88">REACT · MONACO · FASTAPI · PYDANTIC · DOCKER · RENDER</text><line x1="48" y1="106" x2="952" y2="106" class="rule"/></g>
+    <g class="row r4" transform="translate(0 388)"><text class="title" x="48" y="24">04 / SMART CROP INTELLIGENCE</text><text class="copy" x="48" y="48">Sensor-aware crop recommendation platform that turns field measurements into guidance.</text><text class="copy" x="48" y="66">RandomForest achieved 93.18% accuracy, 93.10% macro F1 and 27.61ms inference latency.</text><text class="meta" x="48" y="88">PYTHON · SCIKIT-LEARN · FASTAPI · ESP8266 · TELEMETRY</text><line x1="48" y1="106" x2="952" y2="106" class="rule"/></g>
+    <g class="row r5" transform="translate(0 492)"><text class="title" x="48" y="24">05 / CPU SCHED</text><text class="copy" x="48" y="48">Browser simulator for comparing FCFS, SJF, SRTF, Round Robin and Priority scheduling.</text><text class="copy" x="48" y="66">Animated Gantt charts and Compare All mode make throughput and waiting-time trade-offs visible.</text><text class="meta" x="48" y="88">REACT · VITE · ZUSTAND · TAILWIND · OPERATING SYSTEMS</text><line x1="48" y1="106" x2="952" y2="106" class="rule"/></g>
+    <g class="row r6" transform="translate(0 596)"><text class="title" x="48" y="24">06 / SMART HOME AUTOMATION SOCKET</text><text class="copy" x="48" y="48">On-chip Apple HomeKit HAP server that controls an ESP8266 relay without a cloud bridge.</text><text class="copy" x="48" y="66">Active-LOW safety behavior is explicit in the firmware so a restart fails to a known state.</text><text class="meta" x="48" y="88">C++ · ESP8266 · HOMEKIT · HAP · EMBEDDED SAFETY</text><line x1="48" y1="106" x2="952" y2="106" class="rule"/></g>
+    <g class="row r7" transform="translate(0 700)"><text class="title" x="48" y="24">07 / FACE ATTENDANCE SYSTEM</text><text class="copy" x="48" y="48">Recognition and geotagging platform for attendance capture with a web dashboard.</text><text class="copy" x="48" y="66">dlib recognition, FastAPI APIs, React UI and SQLite keep the workflow lightweight and auditable.</text><text class="meta" x="48" y="88">PYTHON · DLIB · FASTAPI · REACT · TAILWIND · SQLITE</text><line x1="48" y1="106" x2="952" y2="106" class="rule"/></g>
+    <g class="row r8" transform="translate(0 804)"><text class="title" x="48" y="24">08 / ATTENTION IS ALL YOU NEED</text><text class="copy" x="48" y="48">Interactive visual guide to Transformers, token flow and self-attention.</text><text class="copy" x="48" y="66">The teaching interface turns an abstract architecture into a step-by-step, inspectable story.</text><text class="meta" x="48" y="88">REACT · TYPESCRIPT · TRANSFORMERS · TECHNICAL EDUCATION</text><line x1="48" y1="106" x2="952" y2="106" class="rule"/></g>
+    <g class="row r9" transform="translate(0 908)"><text class="title" x="48" y="24">09 / DESKBUDDY</text><text class="copy" x="48" y="48">Compact ESP32 desk companion with an animated OLED face, clock and live weather.</text><text class="copy" x="48" y="66">A small embedded interface explores responsive states, readable feedback and hardware limits.</text><text class="meta" x="48" y="88">C++ · ESP32 · OLED · EMBEDDED UI · REAL-TIME STATES</text><line x1="48" y1="106" x2="952" y2="106" class="rule"/></g>
+    <g class="row r10" transform="translate(0 1012)"><text class="title" x="48" y="24">10 / FAYASAI</text><text class="copy" x="48" y="48">ESP32 voice assistant with an animated OLED interface and low-overhead response loop.</text><text class="copy" x="48" y="66">Whisper speech-to-text and Llama responses connect embedded input to an AI service layer.</text><text class="meta" x="48" y="88">C++ · ESP32 · GROQ · WHISPER · LLAMA · VOICE UI</text><line x1="48" y1="106" x2="952" y2="106" class="rule"/></g>
   </g>
 </svg>
