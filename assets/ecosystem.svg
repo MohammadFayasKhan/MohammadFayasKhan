@@ -50,7 +50,7 @@
   </defs>
 
   <line x1="48" y1="40" x2="952" y2="40" stroke="var(--rule)"/>
-  <text fill="var(--muted)" class="mono" x="48" y="28" font-size="11" letter-spacing="3.5">SYSTEM MAP — EVERYTHING FROM ONE PIPELINE</text>
+  <text fill="var(--muted)" class="mono" x="48" y="28" font-size="11" letter-spacing="3.5">SYSTEM MAP — FROM SIGNAL TO SHIPPED PRODUCT</text>
   <text fill="var(--muted)" class="mono" x="952" y="28" font-size="11" letter-spacing="3.5" text-anchor="end">FIG. 01</text>
 
   <!-- wires -->
@@ -84,34 +84,34 @@
   </g>
 
   <!-- cluster labels -->
-  <text fill="var(--accent)" class="mono pop p10" x="165" y="118" font-size="10" letter-spacing="3" text-anchor="middle">TERMINAL</text>
-  <text fill="var(--accent)" class="mono pop p10" x="512" y="60" font-size="10" letter-spacing="3" text-anchor="middle">WEB &amp; DATA</text>
-  <text fill="var(--accent)" class="mono pop p10" x="845" y="142" font-size="10" letter-spacing="3" text-anchor="middle">EDGE SYSTEMS</text>
-  <text fill="var(--accent)" class="mono pop p10" x="500" y="603" font-size="10" letter-spacing="3" text-anchor="middle">FULL-STACK</text>
-  <text fill="var(--accent)" class="mono pop p10" x="500" y="625" font-size="10" letter-spacing="3" text-anchor="middle">RESEARCH &amp; INTERNSHIPS</text>
+  <text fill="var(--accent)" class="mono pop p10" x="165" y="118" font-size="10" letter-spacing="3" text-anchor="middle">AI / ML</text>
+  <text fill="var(--accent)" class="mono pop p10" x="512" y="60" font-size="10" letter-spacing="3" text-anchor="middle">SERVICES &amp; APIS</text>
+  <text fill="var(--accent)" class="mono pop p10" x="845" y="142" font-size="10" letter-spacing="3" text-anchor="middle">EDGE &amp; ROBOTICS</text>
+  <text fill="var(--accent)" class="mono pop p10" x="500" y="603" font-size="10" letter-spacing="3" text-anchor="middle">PRODUCT LAYER</text>
+  <text fill="var(--accent)" class="mono pop p10" x="500" y="625" font-size="10" letter-spacing="3" text-anchor="middle">LEARNING &amp; DELIVERY</text>
 
   <!-- core -->
   <g class="pop p0">
     <rect class="nodeC" x="405" y="252" width="190" height="56" rx="2"/>
     <text fill="var(--bone)" class="mono" x="500" y="276" font-size="13" letter-spacing="2" text-anchor="middle">FAYAS.SYS</text>
-    <text fill="var(--muted)" class="mono" x="500" y="294" font-size="8.5" letter-spacing="0.5" text-anchor="middle">one-person build pipeline</text>
+    <text fill="var(--muted)" class="mono" x="500" y="294" font-size="8.5" letter-spacing="0.5" text-anchor="middle">observe · build · validate · deploy</text>
   </g>
 
   <!-- nodes -->
-  <g class="pop p1"><rect class="node" x="75" y="138" width="180" height="54" rx="2"/><text fill="var(--bone)" class="mono" x="165" y="161" font-size="12" letter-spacing="1" text-anchor="middle">cosmos</text><text fill="var(--muted)" class="mono" x="165" y="180" font-size="9" letter-spacing="1" text-anchor="middle">AI chat · 25+ models</text></g>
-  <g class="pop p2"><rect class="node" x="30" y="268" width="180" height="54" rx="2"/><text fill="var(--bone)" class="mono" x="120" y="291" font-size="12" letter-spacing="1" text-anchor="middle">terminaltype</text><text fill="var(--muted)" class="mono" x="120" y="310" font-size="9" letter-spacing="1" text-anchor="middle">typing test · live WPM</text></g>
-  <g class="pop p3"><rect class="node" x="85" y="388" width="180" height="54" rx="2"/><text fill="var(--bone)" class="mono" x="175" y="411" font-size="12" letter-spacing="1" text-anchor="middle">billing system</text><text fill="var(--muted)" class="mono" x="175" y="430" font-size="9" letter-spacing="1" text-anchor="middle">GearUp · Team Innovex</text></g>
-  <g class="pop p4"><rect class="node" x="300" y="76" width="180" height="54" rx="2"/><text fill="var(--bone)" class="mono" x="390" y="99" font-size="12" letter-spacing="1" text-anchor="middle">kern</text><text fill="var(--muted)" class="mono" x="390" y="118" font-size="9" letter-spacing="1" text-anchor="middle">data OS · MCP server</text></g>
-  <g class="pop p5"><rect class="node" x="545" y="83" width="180" height="54" rx="2"/><text fill="var(--bone)" class="mono" x="635" y="106" font-size="12" letter-spacing="1" text-anchor="middle">lobe</text><text fill="var(--muted)" class="mono" x="635" y="125" font-size="9" letter-spacing="1" text-anchor="middle">knowledge OS · web</text></g>
-  <g class="pop p6"><rect class="node" x="755" y="158" width="180" height="54" rx="2"/><text fill="var(--bone)" class="mono" x="845" y="181" font-size="12" letter-spacing="1" text-anchor="middle">LPU UMS Agent</text><text fill="var(--muted)" class="mono" x="845" y="200" font-size="9" letter-spacing="1" text-anchor="middle">Chrome MV3 · IndexedDB</text></g>
+  <g class="pop p1"><rect class="node" x="75" y="138" width="180" height="54" rx="2"/><text fill="var(--bone)" class="mono" x="165" y="161" font-size="12" letter-spacing="1" text-anchor="middle" >Code Explain</text><text fill="var(--muted)" class="mono" x="165" y="180" font-size="9" letter-spacing="1" text-anchor="middle">Pydantic · LLM fallback</text></g>
+  <g class="pop p2"><rect class="node" x="30" y="268" width="180" height="54" rx="2"/><text fill="var(--bone)" class="mono" x="120" y="291" font-size="12" letter-spacing="1" text-anchor="middle">CPU Sched</text><text fill="var(--muted)" class="mono" x="120" y="310" font-size="9" letter-spacing="1" text-anchor="middle">algorithms · Gantt charts</text></g>
+  <g class="pop p3"><rect class="node" x="85" y="388" width="180" height="54" rx="2"/><text fill="var(--bone)" class="mono" x="175" y="411" font-size="12" letter-spacing="1" text-anchor="middle">Face Attendance</text><text fill="var(--muted)" class="mono" x="175" y="430" font-size="9" letter-spacing="1" text-anchor="middle">dlib · geotagging · API</text></g>
+  <g class="pop p4"><rect class="node" x="300" y="76" width="180" height="54" rx="2"/><text fill="var(--bone)" class="mono" x="390" y="99" font-size="12" letter-spacing="1" text-anchor="middle">LPU UMS Agent</text><text fill="var(--muted)" class="mono" x="390" y="118" font-size="9" letter-spacing="1" text-anchor="middle">MV3 · observe / verify</text></g>
+  <g class="pop p5"><rect class="node" x="545" y="83" width="180" height="54" rx="2"/><text fill="var(--bone)" class="mono" x="635" y="106" font-size="12" letter-spacing="1" text-anchor="middle">Attention Is All You Need</text><text fill="var(--muted)" class="mono" x="635" y="125" font-size="9" letter-spacing="1" text-anchor="middle">transformers · education</text></g>
+  <g class="pop p6"><rect class="node" x="755" y="158" width="180" height="54" rx="2"/><text fill="var(--bone)" class="mono" x="845" y="181" font-size="12" letter-spacing="1" text-anchor="middle">FayasAI</text><text fill="var(--muted)" class="mono" x="845" y="200" font-size="9" letter-spacing="1" text-anchor="middle">Groq Whisper · Llama</text></g>
   <g class="pop p7"><rect class="node" x="760" y="293" width="180" height="54" rx="2"/><text fill="var(--bone)" class="mono" x="850" y="316" font-size="12" letter-spacing="1" text-anchor="middle">Smart Crop</text><text fill="var(--muted)" class="mono" x="850" y="335" font-size="9" letter-spacing="1" text-anchor="middle">RandomForest · ESP8266</text></g>
-  <g class="pop p8"><rect class="node" x="270" y="438" width="180" height="54" rx="2"/><text fill="var(--bone)" class="mono" x="360" y="461" font-size="12" letter-spacing="1" text-anchor="middle">student dashboard</text><text fill="var(--muted)" class="mono" x="360" y="480" font-size="9" letter-spacing="1" text-anchor="middle">LPU · academic tools</text></g>
-  <g class="pop p9"><rect class="node" x="630" y="393" width="180" height="54" rx="2"/><text fill="var(--bone)" class="mono" x="720" y="416" font-size="12" letter-spacing="1" text-anchor="middle">landroid</text><text fill="var(--muted)" class="mono" x="720" y="435" font-size="9" letter-spacing="1" text-anchor="middle">drone NDVI · GeoTIFF</text></g>
+  <g class="pop p8"><rect class="node" x="270" y="438" width="180" height="54" rx="2"/><text fill="var(--bone)" class="mono" x="360" y="461" font-size="12" letter-spacing="1" text-anchor="middle">React Dashboards</text><text fill="var(--muted)" class="mono" x="360" y="480" font-size="9" letter-spacing="1" text-anchor="middle">FastAPI · live interfaces</text></g>
+  <g class="pop p9"><rect class="node" x="630" y="393" width="180" height="54" rx="2"/><text fill="var(--bone)" class="mono" x="720" y="416" font-size="12" letter-spacing="1" text-anchor="middle">FayasAI</text><text fill="var(--muted)" class="mono" x="720" y="435" font-size="9" letter-spacing="1" text-anchor="middle">Groq Whisper · Llama 3.3</text></g>
 
   <!-- new nodes: internship + research cluster at bottom -->
-  <g class="pop p11"><rect class="node" x="100" y="554" width="180" height="54" rx="2"/><text fill="var(--bone)" class="mono" x="190" y="577" font-size="12" letter-spacing="1" text-anchor="middle">api keychain</text><text fill="var(--muted)" class="mono" x="190" y="596" font-size="9" letter-spacing="1" text-anchor="middle">LLM gateway · live</text></g>
+  <g class="pop p11"><rect class="node" x="100" y="554" width="180" height="54" rx="2"/><text fill="var(--bone)" class="mono" x="190" y="577" font-size="12" letter-spacing="1" text-anchor="middle">Agentic Guardrails</text><text fill="var(--muted)" class="mono" x="190" y="596" font-size="9" letter-spacing="1" text-anchor="middle">schemas · retries · evals</text></g>
   <g class="pop p12"><rect class="node" x="410" y="525" width="180" height="54" rx="2"/><text fill="var(--bone)" class="mono" x="500" y="548" font-size="12" letter-spacing="1" text-anchor="middle">Crop Intelligence Rover</text><text fill="var(--muted)" class="mono" x="500" y="567" font-size="9" letter-spacing="1" text-anchor="middle">EfficientNet · ESP32-CAM</text></g>
-  <g class="pop p13"><rect class="node" x="720" y="554" width="180" height="54" rx="2"/><text fill="var(--bone)" class="mono" x="810" y="577" font-size="12" letter-spacing="1" text-anchor="middle">hallucination det.</text><text fill="var(--muted)" class="mono" x="810" y="596" font-size="9" letter-spacing="1" text-anchor="middle">SRIP 2026 · LPU</text></g>
+  <g class="pop p13"><rect class="node" x="720" y="554" width="180" height="54" rx="2"/><text fill="var(--bone)" class="mono" x="810" y="577" font-size="12" letter-spacing="1" text-anchor="middle">Model Guardrails</text><text fill="var(--muted)" class="mono" x="810" y="596" font-size="9" letter-spacing="1" text-anchor="middle">Pydantic · deterministic logic</text></g>
 
   <line x1="48" y1="650" x2="952" y2="650" stroke="var(--rule)"/>
   <text fill="var(--dim)" class="mono" x="952" y="672" font-size="10" letter-spacing="2" text-anchor="end">DASHED LINES — DATA IN MOTION</text>

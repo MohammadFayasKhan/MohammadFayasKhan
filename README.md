@@ -16,10 +16,11 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/><img src="assets/s03.svg" alt="03 — projects"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"/><img src="assets/projects.svg" alt="Projects by Mohammad Fayas Khan"/></picture>
 
-<details>
-<summary><b>Project links, details, and engineering decisions</b></summary>
+<p><b>PROJECT LINKS · DELIVERED SYSTEMS · ENGINEERING DECISIONS</b></p>
 
 <br/>
+
+I design, build, validate, and ship systems that connect models to useful interfaces. Each project below pairs a measurable outcome with a deliberate engineering choice.
 
 | Project | What it demonstrates | Links |
 |---|---|---|
@@ -31,9 +32,7 @@
 | **Smart Home Automation Socket** | On-chip Apple HomeKit HAP server on ESP8266, active-LOW safety, no cloud or bridge | [Repo](https://github.com/MohammadFayasKhan/SmartHomeAutomationSocket) |
 | **Face Attendance System** | dlib recognition, geotagging, FastAPI, React, Tailwind CSS, SQLite | [Repo](https://github.com/MohammadFayasKhan/Face-Attendance-System) · [Live](https://studentsfaceattendancesystem.vercel.app/) |
 
-**Engineering principles:** keep critical calculations deterministic; validate and repair model output; design hardware around measurable inputs; explain predictions instead of returning opaque labels.
-
-</details>
+**Engineering principles:** I keep critical calculations deterministic, validate and repair model output, design hardware around measurable inputs, and explain predictions instead of returning opaque labels.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg"/><img src="assets/s04.svg" alt="04 — telemetry"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/telemetry.svg"/><img src="assets/telemetry.svg" alt="Development telemetry"/></picture>
@@ -47,10 +46,11 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/timeline.svg"/><img src="assets/timeline.svg" alt="Development timeline"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/experience.svg"/><img src="assets/experience.svg" alt="Experience, leadership, and education"/></picture>
 
-<details>
-<summary><b>Credentials and academic record</b></summary>
+<p><b>CREDENTIALS · LEADERSHIP · ACADEMIC RECORD</b></p>
 
 <br/>
+
+I strengthen fundamentals through coursework, targeted training, competitive building, and leadership. I apply each credential by turning the underlying concept into a working system.
 
 | Period | Milestone |
 |---|---|
@@ -68,15 +68,14 @@
 | Semester 4 | 9.72 | Operating Systems, DAA, Theory of Computation, Computer Organization |
 | **Overall** | **9.66** | **University Honor Roll · AI/ML Minor** |
 
-</details>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg"/><img src="assets/s06.svg" alt="06 — stack"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"/><img src="assets/stack.svg" alt="Technical stack"/></picture>
 
-<details>
-<summary><b>Stack and current focus</b></summary>
+<p><b>STACK · CURRENT FOCUS · NEXT BUILD</b></p>
 
 <br/>
+
+I use this stack to move quickly from an idea to a tested, observable, deployable product:
 
 **Languages:** C++ · Python · C · Java · JavaScript · TypeScript · SQL  
 **AI/ML:** PyTorch · scikit-learn · OpenCV · YOLO · EfficientNetV2-S · Mobile-UNet · dlib  
@@ -91,8 +90,6 @@ practice: 25-minute cold-solve attempt before hints
 target: 200+ problems by Semester 6
 building: Crop Intelligence Rover · agentic tools · GSSoC contributions
 ```
-
-</details>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"/><img src="assets/footer.svg" alt="Current status"/></picture>
 
