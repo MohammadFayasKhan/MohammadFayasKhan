@@ -38,5 +38,3 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack-focus.svg"/><img src="assets/stack-focus.svg" alt="Stack, current focus, and next build"/></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"/><img src="assets/footer.svg" alt="Current status"/></picture>
-
-<!-- Same visual structure and asset naming as the reference profile, with Mohammad Fayas Khan content. -->

@@ -12,30 +12,11 @@
 
   <line x1="120" y1="10" x2="120" y2="360" stroke="var(--rule)" stroke-width="1" opacity=".4"/>
 
-  <g class="rise a1">
-    <text class="mono" x="48" y="42"  font-size="12" fill="var(--accent)" letter-spacing="2">2026</text>
-    <text class="mono" x="136" y="42"  font-size="15" fill="var(--bone)">AI Engineer Launchpad · LLM and Agentic AI · LPU</text>
-    <text class="mono" x="136" y="68"  font-size="14" fill="var(--muted)">built Code Explain — FastAPI, Pydantic, Docker and provider fallback</text>
-    <text class="mono" x="136" y="90"  font-size="14" fill="var(--muted)">scraped 11+ procurement portals with AI fit-scoring · response time: days → two hours</text>
-  </g>
+  <g class="rise a1"><text class="mono" x="48" y="42" font-size="12" fill="var(--accent)" letter-spacing="2">2026</text><text class="mono" x="136" y="42" font-size="15" fill="var(--bone)">AI Engineer Launchpad · LLM and Agentic AI · LPU</text><text class="mono" x="136" y="68" font-size="14" fill="var(--muted)">built Code Explain — FastAPI, Pydantic, Docker and provider fallback</text><text class="mono" x="136" y="90" font-size="14" fill="var(--muted)">scraped 11+ procurement portals with AI fit-scoring · response time: days → two hours</text></g>
 
-  <g class="rise a2">
-    <text class="mono" x="48" y="138" font-size="12" fill="var(--accent)" letter-spacing="2">2026</text>
-    <text class="mono" x="136" y="138" font-size="15" fill="var(--bone)">LPU, Phagwara · Summer Research Intern (SRIP 2026) · Dr. Sandhya P</text>
-    <text class="mono" x="136" y="164" font-size="14" fill="var(--muted)">hallucination detection · confidence scoring → NER routing → Wikidata evidence retrieval</text>
-    <text class="mono" x="136" y="186" font-size="14" fill="var(--muted)">RoBERTa NLI contradiction detection · blockchain audit layer · research paper published</text>
-  </g>
+  <g class="rise a2"><text class="mono" x="48" y="138" font-size="12" fill="var(--accent)" letter-spacing="2">2026</text><text class="mono" x="136" y="138" font-size="15" fill="var(--bone)">LPU, Phagwara · Summer Research Intern (SRIP 2026) · Dr. Sandhya P</text><text class="mono" x="136" y="164" font-size="14" fill="var(--muted)">hallucination detection · confidence scoring → NER routing → Wikidata evidence retrieval</text><text class="mono" x="136" y="186" font-size="14" fill="var(--muted)">RoBERTa NLI contradiction detection · blockchain audit layer · research paper published</text></g>
 
-  <g class="rise a3">
-    <text class="mono" x="48" y="234" font-size="12" fill="var(--accent)" letter-spacing="2">2025</text>
-    <text class="mono" x="136" y="234" font-size="15" fill="var(--bone)">Team Innovex · Hardware Team Leader · LPU GearUp Season 5</text>
-    <text class="mono" x="136" y="260" font-size="14" fill="var(--muted)">JSONB PostgreSQL schema · JWT auth across admin / franchise / cashier roles</text>
-    <text class="mono" x="136" y="282" font-size="14" fill="var(--muted)">Node.js / Express APIs for invoice lifecycle · inventory updates · reporting endpoints</text>
-  </g>
+  <g class="rise a3"><text class="mono" x="48" y="234" font-size="12" fill="var(--accent)" letter-spacing="2">2025</text><text class="mono" x="136" y="234" font-size="15" fill="var(--bone)">Team Innovex · Hardware Team Leader · LPU GearUp Season 5</text><text class="mono" x="136" y="260" font-size="14" fill="var(--muted)">JSONB PostgreSQL schema · JWT auth across admin / franchise / cashier roles</text><text class="mono" x="136" y="282" font-size="14" fill="var(--muted)">Node.js / Express APIs for invoice lifecycle · inventory updates · reporting endpoints</text></g>
 
-  <g class="rise a4">
-    <text class="mono" x="48" y="330" font-size="12" fill="var(--accent)" letter-spacing="2">2024 –</text>
-    <text class="mono" x="136" y="330" font-size="15" fill="var(--bone)">LPU, Phagwara · B.Tech Computer Science · Full-Stack &amp; iOS Track</text>
-    <text class="mono" x="136" y="356" font-size="14" fill="var(--muted)">Team Innovex — hardware and robotics</text>
-  </g>
+  <g class="rise a4"><text class="mono" x="48" y="330" font-size="12" fill="var(--accent)" letter-spacing="2">2024 –</text><text class="mono" x="136" y="330" font-size="15" fill="var(--bone)">LPU, Phagwara · B.Tech Computer Science · Full-Stack &amp; iOS Track</text><text class="mono" x="136" y="356" font-size="14" fill="var(--muted)">Team Innovex — hardware and robotics</text></g>
 </svg>

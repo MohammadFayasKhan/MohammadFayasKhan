@@ -15,9 +15,9 @@
 
   <g class="rise a1">
     <text class="mono" x="48" y="42"  font-size="12" fill="var(--accent)" letter-spacing="2">2026</text>
-    <text class="mono" x="136" y="42"  font-size="15" fill="var(--bone)">AI Engineer Launchpad · LLM and Agentic AI · LPU</text>
-    <text class="mono" x="136" y="68"  font-size="14" fill="var(--muted)">built Code Explain — FastAPI, Pydantic, Docker and provider fallback</text>
-    <text class="mono" x="136" y="90"  font-size="14" fill="var(--muted)">scraped 11+ procurement portals with AI fit-scoring · response time: days → two hours</text>
+    <text class="mono" x="136" y="42" font-size="15" fill="var(--bone)">AI Engineer Launchpad · LLM and Agentic AI · LPU</text>
+    <text class="mono" x="136" y="68" font-size="14" fill="var(--muted)">built Code Explain — FastAPI, Pydantic, Docker and provider fallback</text>
+    <text class="mono" x="136" y="90" font-size="14" fill="var(--muted)">scraped 11+ procurement portals with AI fit-scoring · response time: days → two hours</text>
   </g>
 
   <g class="rise a2">
