@@ -2,37 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Mohammad+Fayas+Khan;AI+%2F+ML+Engineer+in+the+Making;Software+Engineer+%7C+C%2B%2B+%7C+Full+Stack;CSE+%40+LPU+%7C+CGPA+9.66+%7C+Honor+Roll;GSSoC+'26+Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=980&lines=Mohammad+Fayas+Khan;AI+%2F+ML+Engineer+%7C+Agentic+AI+%7C+Full+Stack;Computer+Vision+%2B+IoT+%2B+Robotics;CSE+%40+LPU+%7C+CGPA+9.66+%7C+Honor+Roll+2025;Team+Innovex+%7C+LPU+GearUp+Top+30+Hardware" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-<p>
-  <img src="https://img.shields.io/badge/B.Tech_CSE-Lovely_Professional_University-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/CGPA-9.66_/_10-10B981?style=flat-square"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/AI%2FML-Minor_Specialization-6366F1?style=flat-square"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Andhra_Pradesh,_India-A78BFA?style=flat-square&logo=googlemaps&logoColor=white"/>
-</p>
+<a href="https://linkedin.com/in/mohammadfayaskhan"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000" alt="LinkedIn"/></picture></a>
+<a href="https://github.com/MohammadFayasKhan"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-0d1117?style=flat-square&logo=github&logoColor=ffffff"/><img src="https://img.shields.io/badge/GITHUB-ffffff?style=flat-square&logo=github&logoColor=000000" alt="GitHub"/></picture></a>
+<a href="https://leetcode.com/u/fayaskhanx/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LEETCODE-0d1117?style=flat-square&logo=leetcode&logoColor=ffffff"/><img src="https://img.shields.io/badge/LEETCODE-ffffff?style=flat-square&logo=leetcode&logoColor=000000" alt="LeetCode"/></picture></a>
+<a href="mailto:fayaskhanmohammad@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square&logo=gmail&logoColor=ffffff"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square&logo=gmail&logoColor=000000" alt="Email"/></picture></a>
 
-<p>
-  <a href="https://linkedin.com/in/mohammadfayaskhan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:fayaskhanmohammad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/MohammadFayasKhan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/fayaskhanx/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=MohammadFayasKhan&color=7C3AED&style=flat-square&label=Profile+Views"/>
 &nbsp;
@@ -42,395 +21,75 @@
 
 </div>
 
-<br/>
-
----
-
-## About
-
-I am a **Computer Science Engineering** student at **Lovely Professional University** with a **9.66 CGPA** and recognition on the **University Honor Roll**. I pursue an **AI/ML Minor** alongside core CSE coursework, and I build software that runs in the real world: deployed ML models with 93%+ accuracy, production React applications used by students, hardware-software systems with native Apple HomeKit integration, and AI-powered full-stack applications with facial recognition.
-
-My engineering work spans the full stack, from ESP8266 sensors streaming live data into FastAPI backends, to ML pipelines deployed on Hugging Face, to interactive web apps shipped on Vercel. I cleared the **JPMorgan Chase Code For Good** HackerRank round and contribute to open source through **GSSoC '26**.
-
-I solve DSA problems in **C++** (Striver A2Z roadmap), build AI/ML systems in **Python**, and develop web applications with **React, FastAPI, and Node.js**. My goal is to combine strong computer science fundamentals with practical AI/ML capabilities to build intelligent, production-quality software.
-
-**Open to:** SWE Internships · AI/ML Roles · Open Source Collaborations
-
----
-
-## Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,c,javascript&theme=dark"/>
-</p>
-
-### AI / ML & Data Science
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv,anaconda&theme=dark"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,vite&theme=dark"/>
-</p>
-
-### Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mysql,firebase,supabase&theme=dark"/>
-</p>
-
-### Embedded Systems & IoT
-
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino&theme=dark"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/ESP8266-NodeMCU-00979D?style=flat-square&logo=espressif&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/ESP32--CAM-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/DHT11-Sensor-0F9D58?style=flat-square"/>
-</p>
-
-### DevOps & Tooling
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,selenium&theme=dark"/>
-</p>
-
----
-
-## AI / ML Expertise
-
-| Domain | Details |
-|---|---|
-| **Machine Learning** | RandomForest, GridSearchCV, cross-validation, OOB scoring, feature importance analysis |
-| **Applied ML + IoT** | Sensor-to-model pipelines, real-time inference (27ms avg latency), zero train-deploy feature mismatch |
-| **Deep Learning** | CNNs, MobileNetV2 (applied), PyTorch fundamentals, AI/ML Minor coursework at LPU |
-| **Computer Vision** | OpenCV, dlib face recognition, TCS3200 color sensing, ESP32-CAM integration |
-| **NLP & Generative AI** | Transformers, BERT, GPT concepts, OCI AI services, in-context learning, RAG foundations |
-| **Data Science** | Pandas, NumPy, Matplotlib, EDA, hypothesis testing, probability and statistics |
-| **Cloud AI** | Oracle Cloud Infrastructure AI Foundations (Certified), Hugging Face Spaces deployment |
-
----
-
-## Featured Projects
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg"/><img src="assets/s01.svg" alt="01 // whoami"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg"/><img src="assets/whoami.svg" alt="About Mohammad Fayas Khan"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg"/><img src="assets/s02.svg" alt="02 // system map"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/ecosystem.svg"/><img src="assets/ecosystem.svg" alt="Project ecosystem: edge, models, backend, apps"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/><img src="assets/s03.svg" alt="03 // projects"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"/><img src="assets/projects.svg" alt="Featured projects"/></picture>
 
 <details>
-<summary><b>🌿 Smart Crop Intelligence System: IoT + ML Precision Agriculture Platform</b></summary>
+<summary><b>Project links, live demos and details</b></summary>
 
 <br/>
 
-> Real-time crop recommendation and plant disease detection system combining edge IoT sensors with a deployed ML backend.
-
-| Attribute | Detail |
-|---|---|
-| **ML Model** | RandomForestClassifier, 300 estimators, GridSearchCV tuned |
-| **Accuracy** | 93.18% test accuracy, 93.10% macro F1 score |
-| **Validation** | 5-fold CV mean 91.19%, OOB score 91.82% |
-| **Dataset** | 2,200 balanced samples across 22 crop classes |
-| **Feature Importance** | Rainfall 0.38, Humidity 0.38, Temperature 0.24 |
-| **Inference Speed** | 27.61ms average end-to-end latency |
-| **IoT Hardware** | ESP8266 NodeMCU, DHT11, YL-83 rain sensor, soil moisture probe |
-| **Disease Engine** | Rule-based evaluation of 11 environmental conditions across 4 severity levels |
-| **Stack** | Python, FastAPI, Docker, Hugging Face Spaces, Chart.js |
-| **Endpoints** | `/predict` (dashboard), `/predict/compact` (memory-optimized for MCU) |
-| **Course** | CSE274 Applied Machine Learning at LPU |
-| **Repository** | [smart-crop-intelligence-system](https://github.com/MohammadFayasKhan/smart-crop-intelligene-system) |
-| **Live Demo** | [fayasx-smart-plant.hf.space](https://fayasx-smart-plant.hf.space) |
-
-**Engineering highlight:** The model is trained exclusively on sensor-measurable variables (no NPK or pH inputs that the hardware cannot read), ensuring zero train-deploy feature mismatch. Rolling telemetry is visualized live in the web dashboard.
+| Project | What it does | Links |
+|---|---|---|
+| **AI Powered Crop Intelligence Rover** | EfficientNetV2-S on ~54K images / 38 classes (95.13% acc, 0.9354 macro F1), YOLO + Mobile-UNet + Grad-CAM, ESP32 + ESP32-CAM rover with 4-DOF arm, XiaoZhi voice, FastAPI + React dashboard | [Repo](https://github.com/MohammadFayasKhan/AIPoweredCropIntelligenceRover) · [Live](https://aipoweredcropintelligencerover.dpdns.org) · [Demo](https://youtu.be/BdzizjHH6jI) |
+| **LPU UMS Agent** | Agentic MV3 Chrome extension, closed-loop agent, privacy-first IndexedDB, 3-model LLM fallback, 139 tests | [Repo](https://github.com/MohammadFayasKhan/LpuUmsAgent) |
+| **Code Explain** | AI code tutor with explanations, traces, quizzes, Pydantic validation, Groq + Gemini fallback, and Docker on Render | [Repo](https://github.com/MohammadFayasKhan/CodeExplain) |
+| **Smart Crop Intelligence System** | RandomForest crop advisor, ESP8266 sensors, 27.61ms latency, Hugging Face Spaces | [Repo](https://github.com/MohammadFayasKhan/smart-crop-intelligene-system) · [Live](https://fayasx-smart-plant.hf.space) |
+| **CPU Sched** | Five scheduling algorithms, animated Gantt charts, and Compare All mode | [Repo](https://github.com/MohammadFayasKhan/cpuSched) · [Live](https://cpu-sched.vercel.app) |
+| **Smart Home Automation Socket** | Full HomeKit HAP server on ESP8266 with no cloud or bridge | [Repo](https://github.com/MohammadFayasKhan/SmartHomeAutomationSocket) |
+| **Face Attendance System** | dlib face recognition with geotagging, FastAPI, and React | [Repo](https://github.com/MohammadFayasKhan/Face-Attendance-System) · [Live](https://studentsfaceattendancesystem.vercel.app/) |
 
 </details>
 
-<details>
-<summary><b>⚙️ Cpu Sched: Interactive CPU Scheduling Simulator</b></summary>
-
-<br/>
-
-> Production-grade Single Page Application that transforms abstract OS scheduling theory into dynamic, interactive learning.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | React 18, Vite, Tailwind CSS, Zustand, Lucide React |
-| **Algorithms** | FCFS, SJF, SRTF, Round Robin, Priority Scheduling |
-| **Features** | Animated Gantt charts, Compare All mode, Queue Monitor, State Transition Diagram |
-| **Metrics** | Auto-computed Waiting Time, Turnaround Time, Response Time, CPU Utilization |
-| **Architecture** | Unidirectional data flow with pure scheduling functions decoupled from UI, Zustand as single source of truth |
-| **Repository** | [cpuSched](https://github.com/MohammadFayasKhan/cpuSched) |
-| **Live URL** | [cpu-sched.vercel.app](https://cpu-sched.vercel.app) |
-| **License** | MIT Open Source |
-| **Team** | Fayas Khan, Aditya Rana, Adithyan P (Mentor: Rizwan Sir) |
-
-**Engineering highlight:** Students can configure arbitrary process workloads and watch all five major scheduling algorithms execute in real time with play/pause/step controls, timestamped logs, built-in educational scenarios (Convoy Effect, Starvation, Priority Inversion), and contextual algorithm explainers.
-
-</details>
-
-<details>
-<summary><b>🏠 Smart Home Automation Socket: ESP8266 + Apple HomeKit Integration</b></summary>
-
-<br/>
-
-> Native Apple HomeKit smart home controller running a full HAP (HomeKit Accessory Protocol) server on an ESP8266 microcontroller, with no cloud dependency, no bridge device, and no subscription.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | C++ (80 lines), ESP8266 NodeMCU, Dual Relay Module |
-| **Protocol** | HAP (HomeKit Accessory Protocol) running entirely on-chip |
-| **Integration** | Native iPhone, iPad, Mac, Apple Watch, HomePod support via Siri |
-| **Safety** | Active-LOW relay logic (both outputs default to OFF on power-up) |
-| **Architecture** | Wi-Fi, protocol handling, pairing, and relay control all on a single microcontroller |
-| **Repository** | [SmartHomeAutomationSocket](https://github.com/MohammadFayasKhan/SmartHomeAutomationSocket) |
-
-**Engineering highlight:** The ESP8266 runs a full HAP server on-chip, handling Wi-Fi, protocol negotiation, device pairing, and relay control simultaneously. No Raspberry Pi or external hub required. Three source files, eighty lines of C++, full Apple ecosystem integration.
-
-</details>
-
-
-<details>
-<summary><b>👨🏻‍💻 Face Attendance System: AI-Powered Recognition + Geotagging</b></summary>
-
-<br/>
-
-> Advanced attendance system using facial recognition and geotagging for secure, automated tracking with a high-performance backend and real-time face detection.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | Python, FastAPI, React, Tailwind CSS, SQLite, dlib |
-| **AI/ML** | dlib face recognition, real-time face detection |
-| **Features** | Geotagging, automated tracking, real-time detection dashboard |
-| **Architecture** | FastAPI backend with React frontend, computer vision inference pipeline |
-| **Repository** | [Face-Attendance-System](https://github.com/MohammadFayasKhan/Face-Attendance-System) |
-| **Live Demo** | [studentsfaceattendancesystem.vercel.app](https://studentsfaceattendancesystem.vercel.app/) |
-
-**Engineering highlight:** Combines computer vision (dlib face recognition), geolocation services, and a full-stack web application into a cohesive attendance management system. Demonstrates integration of AI inference with production web architecture.
-
-</details>
-
----
-
-## Competitive & Open Source
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg"/><img src="assets/s04.svg" alt="04 // telemetry"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/telemetry.svg"/><img src="assets/telemetry.svg" alt="Key metrics"/></picture>
 
 <div align="center">
-
-| Platform | Status |
-|---|---|
-| **GSSoC '26** | Accepted Contributor, GirlScript Summer of Code, Open Source Track |
-| **JPMorgan Chase Code For Good** | HackerRank Coding Round Cleared, HireVue Invitation Received (SEP 2027) |
-| **Web-A-Thon Hackathon** | Built "Budget Tracker for Students" using ReactJS + NodeJS |
-| **Hack-A-Throne 1.0 (AIESEC)** | Frontend development, PC Building web platform |
-
-</div>
-
----
-
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| **LPU University Honor Roll** | Awarded for outstanding academic performance |
-| **CGPA 9.66** | Consistent excellence: S1 9.55, S2 9.63, S3 9.76, S4 9.72 |
-| **JPMorgan Chase Code For Good** | Cleared HackerRank round, received HireVue interview invitation |
-| **GSSoC '26 Contributor** | Accepted into GirlScript Summer of Code 2026 |
-| **93.18% ML Accuracy** | Deployed production crop intelligence model on Hugging Face |
-| **CPUSCHED Live Deploy** | Shipped open-source React app used by OS students at LPU |
-| **Inspire Manak Fair** | Science fair participation and project demonstration |
-
-</div>
-
----
-
-## Certifications
-
-<div align="center">
-
-**Oracle**
-
-![Oracle AI Foundations](https://img.shields.io/badge/Oracle_Cloud-AI_Foundations_Associate_2025-F80000?style=flat-square&logo=oracle&logoColor=white)
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MohammadFayasKhan&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true"/><img src="https://github-readme-stats.vercel.app/api?username=MohammadFayasKhan&show_icons=true&theme=default&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true" height="175" alt="GitHub stats"/></picture>
 &nbsp;
-![Oracle Foundations](https://img.shields.io/badge/Oracle_Cloud-Certified_Foundations_Associate_2025-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-<br/>
-
-**Google**
-
-![Google Analytics](https://img.shields.io/badge/Google-Analytics_Certification-4285F4?style=flat-square&logo=google&logoColor=white)
-
-<br/>
-
-**NASSCOM**
-
-![ML Image Processing](https://img.shields.io/badge/NASSCOM-Machine_Learning_%26_Image_Processing-0F9D58?style=flat-square)
-&nbsp;
-![Chatbot Development](https://img.shields.io/badge/NASSCOM-Chatbot_%26_Smart_Assistant_Development-0F9D58?style=flat-square)
-
-<br/>
-
-**Infosys**
-
-![C++ Programming](https://img.shields.io/badge/Infosys_Springboard-Programming_Using_C++-007ACC?style=flat-square&logo=infosys&logoColor=white)
-
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=MohammadFayasKhan&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" />
-&nbsp;
-<img height="175" src="https://nirzak-streak-stats.vercel.app/?user=MohammadFayasKhan&theme=tokyonight&border_radius=10&hide_border=false" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadFayasKhan&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&langs_count=8"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadFayasKhan&layout=compact&theme=default&bg_color=00000000&hide_border=true&langs_count=8" height="175" alt="Top languages"/></picture>
 
 <br/><br/>
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadFayasKhan&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8" />
-
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MohammadFayasKhan&bg_color=00000000&color=ffffff&line=A78BFA&point=ffffff&area_color=A78BFA&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadFayasKhan&bg_color=00000000&color=000000&line=7C3AED&point=000000&area_color=7C3AED&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="GitHub contribution activity"/></picture>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="97%" alt="GitHub contribution snake"/>
 </div>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s05.svg"/><img src="assets/s05.svg" alt="05 // the route"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/timeline.svg"/><img src="assets/timeline.svg" alt="Development timeline"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/experience.svg"/><img src="assets/experience.svg" alt="Training and recognition"/></picture>
 
-## GitHub Achievements
+<details>
+<summary><b>Certifications and academic record</b></summary>
+
+<br/>
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" style="border: none;">
-      <a href="https://github.com/users/MohammadFayasKhan/achievements/quickdraw">
-        <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="80" alt="Quickdraw"/>
-      </a>
-      <br/>
-      <code>Quickdraw</code>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://github.com/users/MohammadFayasKhan/achievements/yolo">
-        <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="80" alt="YOLO"/>
-      </a>
-      <br/>
-      <code>YOLO</code>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://github.com/users/MohammadFayasKhan/achievements/pull-shark">
-        <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" alt="PullShark"/>
-      </a>
-      <br/>
-      <code>PullShark</code>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadFayasKhan&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/fayaskhanx/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-fayaskhanx-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</div>
-
----
-
-## Academic Record
-
-<div align="center">
+![Oracle AI Foundations](https://img.shields.io/badge/Oracle_Cloud-AI_Foundations_Associate_2025-F80000?style=flat-square&logo=oracle&logoColor=white)
+![NASSCOM](https://img.shields.io/badge/NASSCOM-Machine_Learning_%26_Image_Processing-0F9D58?style=flat-square)
+![LPU Launchpad](https://img.shields.io/badge/LPU-AI_Engineer_Launchpad-7C3AED?style=flat-square)
 
 | Semester | TGPA | Key Subjects |
 |---|---|---|
-| **Semester 1** | **9.55** | Python, Computing, Engineering Mathematics |
-| **Semester 2** | **9.63** | DBMS, Software Engineering, Computer Programming, Discrete Mathematics |
-| **Semester 3** | **9.76** | OOP, Data Structures and Algorithms, Computer Networks, Probability and Statistics |
-| **Semester 4** | **9.72** | Operating Systems, Design and Analysis of Algorithms, Theory of Computation, Computer Organization |
-| **Overall CGPA** | **9.66** | University Honor Roll, AI/ML Minor |
+| **Sem 1** | **9.55** | Python, Computing, Engineering Mathematics |
+| **Sem 2** | **9.63** | DBMS, Software Engineering, Discrete Mathematics |
+| **Sem 3** | **9.76** | OOP, DSA, Computer Networks, Probability and Statistics |
+| **Sem 4** | **9.72** | Operating Systems, DAA, Theory of Computation, Computer Organization |
+| **Overall** | **9.66** | University Honor Roll, AI/ML Minor |
 
 </div>
+</details>
 
----
-
-## Current Focus
-
-```yaml
-Primary Track: C++ DSA
-  Roadmap: Striver A2Z (sequential, no skipping)
-  Language: C++ (primary problem-solving language)
-  Practice: 25-minute attempt rule before any hints
-  Goal: 200+ cold-solved problems by Semester 6
-
-Secondary Track: AI/ML
-  Minor: AI/ML Minor at LPU
-  Domain: Supervised Learning, Deep Learning, NLP, Computer Vision
-  Focus: End-to-end projects with real deployment
-
-Building:
-  - AI/ML projects with production deployment pipelines
-  - Open source contributions via GSSoC '26
-  - Backend APIs and intelligent applications
-
-Open To:
-  - Software Engineering internships at product companies
-  - AI/ML Engineer opportunities
-  - Open source collaborations on impactful projects
-```
-
----
-
-## Connect
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg"/><img src="assets/s06.svg" alt="06 // stack"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"/><img src="assets/stack.svg" alt="Technical stack"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"/><img src="assets/footer.svg" alt="Current status"/></picture>
 
 <div align="center">
-
-<a href="mailto:fayaskhanmohammad@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-fayaskhanmohammad@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/mohammadfayaskhan/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Mohammad_Fayas_Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/MohammadFayasKhan" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-MohammadFayasKhan-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-*Building intelligent software at the intersection of AI/ML, full-stack engineering, and embedded systems.*
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-
 </div>
+
+<!-- one responsive picture per visual; no duplicate light/dark rendering -->
