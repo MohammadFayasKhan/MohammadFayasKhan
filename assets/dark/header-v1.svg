@@ -1,54 +1,30 @@
-<svg viewBox="0 0 1000 400" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mohammad Fayas Khan — AI and software engineering student">
-  <style>
-    :root { --bone: #444444; --rule: #C0C0C0; --muted: #888888; --dim: #AAAAAA; --accent: #555555; }
-    @media (prefers-color-scheme: dark) { :root { --bone: #DDDDDD; --rule: #444444; --muted: #777777; --dim: #666666; --accent: #AAAAAA; } }
-    .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
-    .draw { stroke-dasharray: 1000; stroke-dashoffset: 1000; animation: draw 1.4s cubic-bezier(.6,0,.2,1) forwards; }
-    @keyframes draw { to { stroke-dashoffset: 0; } }
-    .rise { opacity: 0; animation: rise .9s cubic-bezier(.2,.7,.2,1) forwards; }
-    @keyframes rise { from { opacity:0;transform:translateY(12px); } to { opacity:1;transform:translateY(0); } }
-    .fade { opacity: 0; animation: fade .7s ease forwards; }
-    @keyframes fade { to { opacity: 1; } }
-    .a1{animation-delay:.2s} .a2{animation-delay:.5s} .a3{animation-delay:.9s} .a4{animation-delay:1.2s} .a5{animation-delay:1.4s} .a6{animation-delay:1.7s}
-    .rot { opacity:0; animation: rot 12s linear infinite; }
-    .r1{animation-delay:1.7s} .r2{animation-delay:4.7s} .r3{animation-delay:7.7s} .r4{animation-delay:10.7s}
-    @keyframes rot { 0%{opacity:0} 1.5%{opacity:1} 18%{opacity:1} 20%{opacity:0} 100%{opacity:0} }
-    @media (prefers-reduced-motion: reduce) {
-      .draw,.rise,.fade,.rot { animation: none; }
-      .draw{stroke-dashoffset:0} .rise,.fade{opacity:1} .rot{opacity:0} .rot.r1{opacity:1}
-    }
-      :root { --bone: #000000; --muted: #000000; --dim: #000000; --rule: #000000; --accent: #000000; --node-bg: #FFFFFF; --core-bg: #FFFFFF; }
-  :root { --bone:#FFFFFF; --muted:#FFFFFF; --dim:#FFFFFF; --rule:#FFFFFF; --accent:#FFFFFF; --node-bg:#000000; --core-bg:#000000; --ghost:#FFFFFF; --ink:#FFFFFF; --paper:#000000; --ghost:#FFFFFF; }
+<svg viewBox="0 0 1000 400" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mohammad Fayas Khan — CSE student and applied AI builder">
+<style>
+:root{--bone:#DDDDDD;--muted:#777777;--dim:#666666;--rule:#444444;--accent:#AAAAAA;--node:#1A1A1A;--core:#222222}
+.mono{font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace}
+.card{fill:var(--node);stroke:var(--rule);stroke-width:1}
+.soft{fill:var(--core);stroke:var(--rule);stroke-width:1}
+.gridline{stroke:var(--rule);stroke-width:1;opacity:.32}
+.bar{stroke:var(--accent);stroke-width:3;stroke-linecap:round}
+.dot{fill:var(--accent)}
+.rise{opacity:1;animation:rise .7s cubic-bezier(.2,.7,.2,1) forwards}
+.r1{animation-delay:.1s}.r2{animation-delay:.2s}.r3{animation-delay:.3s}.r4{animation-delay:.4s}.r5{animation-delay:.5s}.r6{animation-delay:.6s}.r7{animation-delay:.7s}.r8{animation-delay:.8s}.r9{animation-delay:.9s}.r10{animation-delay:1s}
+.draw{stroke-dasharray:1200;stroke-dashoffset:1200;animation:draw 1.5s cubic-bezier(.6,0,.2,1) forwards}
+.wire{stroke:var(--rule);stroke-width:1;stroke-dasharray:500;stroke-dashoffset:500;animation:draw 1.4s cubic-bezier(.6,0,.2,1) forwards}
+.pulse{animation:pulse 2.4s ease-in-out infinite}
+.ring{animation:ring 2.4s ease-out infinite;transform-origin:60px 64px}
+.blink{animation:blink 1.1s steps(2,end) infinite}
+.scan{animation:scan 4s ease-in-out infinite}
+.float{animation:float 3.2s ease-in-out infinite}
+@keyframes rise{from{transform:translateY(8px)}to{transform:translateY(0)}}
+@keyframes draw{to{stroke-dashoffset:0}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+@keyframes ring{0%{transform:scale(.4);opacity:.8}80%,100%{transform:scale(2.6);opacity:0}}
+@keyframes blink{0%,45%{opacity:1}46%,100%{opacity:0}}
+@keyframes scan{0%{transform:translateX(0);opacity:.15}50%{opacity:.8}100%{transform:translateX(900px);opacity:.15}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
+@media(prefers-reduced-motion:reduce){.rise,.draw,.wire,.pulse,.ring,.blink,.scan,.float{animation:none;opacity:1;stroke-dashoffset:0}}
 </style>
-
-  <line class="draw a1" x1="48" y1="58" x2="952" y2="58" stroke="var(--rule)" stroke-width="1"/>
-  <g class="fade a1">
-    <text class="mono" fill="var(--muted)" x="48" y="44" font-size="11" letter-spacing="3.5">PORTFOLIO — INDEX Nº 001</text>
-    <text class="mono" fill="var(--muted)" x="952" y="44" font-size="11" letter-spacing="3.5" text-anchor="end">PHAGWARA, IN — 13.08° N</text>
-  </g>
-
-  <g class="rise a2">
-    <text fill="var(--bone)" class="mono" x="46" y="176" font-size="72" letter-spacing="-2">Mohammad Fayas Khan</text>
-  </g>
-  <g class="fade a3">
-    <text fill="var(--muted)" class="mono" x="48" y="214" font-size="19">Software Engineer &amp; AI/ML Builder — Phagwara, India.</text>
-  </g>
-
-  <g class="fade a4">
-  <text fill="var(--dim)" class="mono" x="48" y="274" font-size="12.5" letter-spacing="1">focus  ▸</text>
-  <text fill="var(--accent)" class="mono" x="128" y="274" font-size="12.5" letter-spacing="1">AI/ML · backend systems · computer vision · IoT</text>
-  </g>
-  <g class="fade a5">
-    <text fill="var(--dim)" class="mono" x="48" y="300" font-size="12.5" letter-spacing="1">B.Tech CSE @ LPU · graduating 2028 · building practical systems</text>
-  </g>
-
-  <line class="draw a5" x1="48" y1="342" x2="952" y2="342" stroke="var(--rule)" stroke-width="1"/>
-  <g class="fade a6">
-    <text fill="var(--muted)" class="mono" x="48" y="374" font-size="11.5" letter-spacing="3">AI / ML</text>
-    <text fill="var(--accent)" class="mono" x="252" y="374" font-size="11.5">·</text>
-    <text fill="var(--muted)" class="mono" x="282" y="374" font-size="11.5" letter-spacing="3">FULL-STACK AI</text>
-    <text fill="var(--accent)" class="mono" x="550" y="374" font-size="11.5">·</text>
-    <text fill="var(--muted)" class="mono" x="580" y="374" font-size="11.5" letter-spacing="3">EDGE / IOT</text>
-    <text fill="var(--muted)" class="mono" x="952" y="374" font-size="11.5" letter-spacing="3" text-anchor="end">LPU — 2024 / 2028</text>
-  </g>
+<title>Mohammad Fayas Khan — CSE student and applied AI builder</title>
+<g><rect class="soft" x="28" y="20" width="944" height="372" rx="4"/><text x="48" y="44" font-size="11" fill="var(--muted)" letter-spacing="3" class="mono">PORTFOLIO — INDEX Nº 001</text><text x="952" y="44" font-size="11" fill="var(--muted)" text-anchor="end" letter-spacing="3" class="mono">PHAGWARA, IN — 31.25° N</text><line class="scan" x1="48" y1="76" x2="48" y2="330" stroke="var(--accent)" stroke-width="1"/><text x="46" y="176" font-size="62" fill="var(--bone)" font-weight="700" letter-spacing="-2" textLength="900" lengthAdjust="spacingAndGlyphs" class="mono rise r1">Mohammad Fayas Khan</text><rect class="blink" x="952" y="130" width="7" height="46" fill="var(--accent)"/><text x="48" y="214" font-size="19" fill="var(--muted)" class="mono rise r2">CSE Student &amp; Applied AI Builder — Phagwara, India.</text><text x="48" y="274" font-size="12" fill="var(--dim)" letter-spacing="1" class="mono rise r3">focus  ▸</text><text x="128" y="274" font-size="12" fill="var(--accent)" letter-spacing="1" class="mono rise r3">AI/ML · computer vision · LLM systems · backend · IoT</text><text x="48" y="300" font-size="12" fill="var(--dim)" letter-spacing="1" class="mono rise r4">building practical systems with software, models, automation and hardware</text><line class="draw" x1="48" y1="342" x2="952" y2="342"/><text x="48" y="374" font-size="11" fill="var(--muted)" letter-spacing="3" class="mono rise r5">B.TECH CSE @ LPU · GRADUATING 2028</text><text x="952" y="374" font-size="11" fill="var(--muted)" text-anchor="end" letter-spacing="2" class="mono rise r5">TEAM INNOVEX · OPEN TO COLLABORATION</text></g>
 </svg>

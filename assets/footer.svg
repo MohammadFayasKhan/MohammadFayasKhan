@@ -1,21 +1,30 @@
-<svg viewBox="0 0 1000 110" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Status: building. Phagwara, India. github.com/MohammadFayasKhan">
-  <style>
-    :root { --bone: #444444; --muted: #888888; --rule: #C0C0C0; --accent: #555555; }
-    @media (prefers-color-scheme: dark) { :root { --bone: #DDDDDD; --muted: #777777; --rule: #444444; --accent: #AAAAAA; } }
-    .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
-    .draw { stroke: var(--rule); stroke-width: 1; stroke-dasharray: 1000; stroke-dashoffset: 1000; animation: d 1.6s cubic-bezier(.6,0,.2,1) forwards; }
-    @keyframes d { to { stroke-dashoffset: 0; } }
-    .dot { animation: p 2.4s ease-in-out infinite; }
-    .ring { animation: r 2.4s ease-out infinite; transform-origin: 60px 64px; }
-    @keyframes p { 0%,100%{opacity:1} 50%{opacity:.35} }
-    @keyframes r { 0%{transform:scale(.4);opacity:.8} 80%,100%{transform:scale(2.6);opacity:0} }
-    @media (prefers-reduced-motion: reduce) { .draw,.dot,.ring{animation:none} .draw{stroke-dashoffset:0} .ring{opacity:0} }
-      :root { --bone: #000000; --muted: #000000; --dim: #000000; --rule: #000000; --accent: #000000; --node-bg: #FFFFFF; --core-bg: #FFFFFF; --ghost: #000000; }
-  </style>
-  <line class="draw" x1="48" y1="24" x2="952" y2="24"/>
-  <circle class="ring" cx="60" cy="64" r="5" stroke="var(--accent)" stroke-width="1" fill="none"/>
-  <circle class="dot" cx="60" cy="64" r="4" fill="var(--accent)"/>
-  <text class="mono" x="82" y="62" font-size="12" letter-spacing="3" fill="var(--bone)">STATUS &#8212; BUILDING</text>
-  <text class="mono" x="82" y="82" font-size="11" letter-spacing="2" fill="var(--muted)">probably in a terminal, probably past midnight</text>
-  <text class="mono" x="952" y="66" font-size="15" text-anchor="end" fill="var(--muted)">github.com/MohammadFayasKhan&#160;&#160;&#183;&#160;&#160;Phagwara, IN&#160;&#160;&#183;&#160;&#160;&#169; 2025</text>
+<svg viewBox="0 0 1000 110" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Status — Mohammad Fayas Khan is building">
+<style>
+:root{--bone:#444444;--muted:#888888;--dim:#AAAAAA;--rule:#C0C0C0;--accent:#555555;--node:#F0F0F0;--core:#E8E8E8}
+.mono{font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace}
+.card{fill:var(--node);stroke:var(--rule);stroke-width:1}
+.soft{fill:var(--core);stroke:var(--rule);stroke-width:1}
+.gridline{stroke:var(--rule);stroke-width:1;opacity:.32}
+.bar{stroke:var(--accent);stroke-width:3;stroke-linecap:round}
+.dot{fill:var(--accent)}
+.rise{opacity:1;animation:rise .7s cubic-bezier(.2,.7,.2,1) forwards}
+.r1{animation-delay:.1s}.r2{animation-delay:.2s}.r3{animation-delay:.3s}.r4{animation-delay:.4s}.r5{animation-delay:.5s}.r6{animation-delay:.6s}.r7{animation-delay:.7s}.r8{animation-delay:.8s}.r9{animation-delay:.9s}.r10{animation-delay:1s}
+.draw{stroke-dasharray:1200;stroke-dashoffset:1200;animation:draw 1.5s cubic-bezier(.6,0,.2,1) forwards}
+.wire{stroke:var(--rule);stroke-width:1;stroke-dasharray:500;stroke-dashoffset:500;animation:draw 1.4s cubic-bezier(.6,0,.2,1) forwards}
+.pulse{animation:pulse 2.4s ease-in-out infinite}
+.ring{animation:ring 2.4s ease-out infinite;transform-origin:60px 64px}
+.blink{animation:blink 1.1s steps(2,end) infinite}
+.scan{animation:scan 4s ease-in-out infinite}
+.float{animation:float 3.2s ease-in-out infinite}
+@keyframes rise{from{transform:translateY(8px)}to{transform:translateY(0)}}
+@keyframes draw{to{stroke-dashoffset:0}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+@keyframes ring{0%{transform:scale(.4);opacity:.8}80%,100%{transform:scale(2.6);opacity:0}}
+@keyframes blink{0%,45%{opacity:1}46%,100%{opacity:0}}
+@keyframes scan{0%{transform:translateX(0);opacity:.15}50%{opacity:.8}100%{transform:translateX(900px);opacity:.15}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
+@media(prefers-reduced-motion:reduce){.rise,.draw,.wire,.pulse,.ring,.blink,.scan,.float{animation:none;opacity:1;stroke-dashoffset:0}}
+</style>
+<title>Status — Mohammad Fayas Khan is building</title>
+<g><line class="draw" x1="48" y1="24" x2="952" y2="24"/><circle class="ring" cx="60" cy="64" r="5" stroke="var(--accent)" fill="none"/><circle class="pulse" cx="60" cy="64" r="4" fill="var(--accent)"/><text x="82" y="62" font-size="12" fill="var(--bone)" letter-spacing="3" class="mono">STATUS — BUILDING</text><text x="82" y="86" font-size="11" fill="var(--muted)" class="mono">AI systems · software foundations · hardware experiments</text><text x="952" y="86" font-size="11" fill="var(--accent)" text-anchor="end" class="mono">github.com/MohammadFayasKhan · Phagwara, IN · © 2026</text></g>
 </svg>
